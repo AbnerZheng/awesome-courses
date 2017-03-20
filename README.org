@@ -38,651 +38,630 @@ for free.
 
 -  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@ Lecture Videos
 -  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@ Lecture Notes
--  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   - Assignments / Labs
--  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-   - Readings
+-  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@ Assignments / Labs
+-  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@ Readings
 
 ** Courses
    :PROPERTIES:
    :CUSTOM_ID: courses
    :END:
 
-*** Systems
+*** STARTED Systems
     :PROPERTIES:
     :CUSTOM_ID: systems
     :END:
-
--  [[http://www-inst.eecs.berkeley.edu/~cs61c/sp17/][CS 61C]] *Great
-   Ideas in Computer Architecture (Machine Structures)* /UC Berkeley/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  [[https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_][Lecture Videos]]
-   -  [[http://www-inst.eecs.berkeley.edu/~cs61c/sp17/#Calendar][Lecture Notes]]
-   -  [[http://www-inst.eecs.berkeley.edu/~cs61c/sp17/#Resources][Resources]]
-   -  [[https://hkn.eecs.berkeley.edu/exams/course/CS/61C][Old Exams]]
-   -  完成了project1和project2，完成了assembler和linker。project设计得还是相当有想法的，受益颇多
-
--  [[https://courseware.stanford.edu/pg/courses/lectures/371747][CS
-   107]] *Computer Organization & Systems* /Stanford University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-
-   -  CS107 is the third course in Stanford's introductory programming
-      sequence. The course will work from the C programming language
-      down to the microprocessor to de-mystify the machine. With a
-      complete understanding of how computer systems execute programs
-      and manipulate data, you will become a more effective programmer,
-      especially in dealing with issues of debugging, performance,
-      portability, and robustness.
-   -  [[https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10][Lecture
-      Videos]]
-   -  [[http://web.stanford.edu/class/cs107/assignments.html][Assignments]]
-
--  [[http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php][CS
-   140]] *Operating Systems* /Stanford University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  This class introduces the basic facilities provided in modern
-      operating systems. The course divides into three major sections.
-      The first part of the course discusses concurrency. The second
-      part of the course addresses the problem of memory management. The
-      third major part of the course concerns file systems.
-   -  [[http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php][Lecture
-      Notes]]
-   -  [[http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/projects.php][Assignments]]
-
--  [[https://6004.mit.edu/][6.004]] *Computation Structures* /MIT/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-
-   -  Introduces architecture of digital systems, emphasizing structural
-      principles common to a wide range of technologies. Multilevel
-      implementation strategies; definition of new primitives (e.g.,
-      gates, instructions, procedures, processes) and their
-      mechanization using lower-level elements. Analysis of potential
-      concurrency; precedence constraints and performance measures;
-      pipelined and multidimensional systems. Instruction set design
-      issues; architectural support for contemporary software
-      structures. 4 Engineering Design Points. 6.004 offers an
-      introduction to the engineering of digital systems. Starting with
-      MOS transistors, the course develops of series of building blocks
-      logic gates, combinational and sequential circuits, finite-state
-      machines, computers and finally complete systems. Both hardware
-      and software mechanisms are explored through a series of design
-      examples.
-   -  [[https://www.youtube.com/watch?v=9DWlqtsNGV0&index=1&list=PLmP5iIyVnKPQ-cO_EENdUgEdlRf0u5LYa][Youtube
-      Playlist]]
-   -  [[http://computationstructures.org/notes/tradeoffs/notes.html][Lecture
-      Notes]]
-   -  [[http://computationstructures.org/exercises/cmos/lab.html][Labs-Assignments]]
-
--  [[http://cs162.eecs.berkeley.edu/][CS 162]] *Operating Systems and
-   Systems Programming* /UC Berkeley/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  The purpose of this course is to teach the design of operating
-      systems and operating systems concepts that appear in other
-      advanced systems. Topics we will cover include concepts of
-      operating systems, systems programming, networked and distributed
-      systems, and storage systems, including multiple-program systems
-      (processes, interprocess communication, and synchronization),
-      memory allocation (segmentation, paging), resource allocation and
-      scheduling, file systems, basic networking (sockets, layering,
-      APIs, reliability), transactions, security, and privacy.
-
-      -  Operating Systems course by the Chair of EECS, UC Berkeley
-         [[http://www.cs.berkeley.edu/~culler/][David Culler]]
-      -  [[https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c][Youtube
-         Playlist]] Spring 2015 lectures
-      -  已在上(2016, fall)， mini os 采用的是pintos。目前完成hw0和hw1。
-
--  [[https://inst.eecs.berkeley.edu/~cs168/fa14/][CS 168]] *Introduction
-   to the Internet: Architecture and Protocols* /UC Berkeley/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-
-   -  This course is an introduction to the Internet architecture. We
-      will focus on the concepts and fundamental design principles that
-      have contributed to the Internet's scalability and robustness and
-      survey the various protocols and algorithms used within this
-      architecture. Topics include layering, addressing, intradomain
-      routing, interdomain routing, reliable delivery, congestion
-      control, and the core protocols (e.g., TCP, UDP, IP, DNS, and
-      HTTP) and network technologies (e.g., Ethernet, wireless).
-   -  [[https://inst.eecs.berkeley.edu/~cs168/fa14/class.html][Lecture
-      Notes & Assignments]]
-   -  [[https://inst.eecs.berkeley.edu/~cs168/fa14/][Discussion Notes]]
-   -  已在上（2016, fall）
-
--  [[https://sites.google.com/site/cs186spring2015/][CS 186]]
-   *Introduction to Database Systems* /UC Berkeley/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  In the project assignments in CS186, you will write a basic
-      database management system called SimpleDB. For this project, you
-      will focus on implementing the core modules required to access
-      stored data on disk; in future projects, you will add support for
-      various query processing operators, as well as transactions,
-      locking, and concurrent queries.
-   -  [[https://sites.google.com/site/cs186fall2013/section-notes][Lecture
-      Notes]]
-   -  [[https://sites.google.com/site/cs186fall2013/homeworks][Projects]]
-   -  已在上(2016, fall)。
-
--  [[http://courses.cms.caltech.edu/cs179/][CS 179]] *GPU Programming*
-   /Caltech/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  This course will cover programming techniques for the GPU. The
-      course will introduce NVIDIA's parallel computing language, CUDA.
-      Beyond covering the CUDA programming model and syntax, the course
-      will also discuss GPU architecture, high performance computing on
-      GPUs, parallel algorithms, CUDA libraries, and applications of GPU
-      computing.
-   -  [[http://courses.cms.caltech.edu/cs179/][Assignments]]
-   -  [[http://courses.cms.caltech.edu/cs179/][Lecture Notes]]
-
--  [[https://courses.engr.illinois.edu/cs241/fa2014/index.html][CS 241]]
-   *Systems Programming (Fall 2014)* /Univ of Illinois,
-   Urbana-Champaign/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  System programming refers to writing code that tasks advantage of
-      operating system support for programmers. This course is designed
-      to introduce you to system programming. By the end of this course,
-      you should be proficient at writing programs that take full
-      advantage of operating system support. To be concrete, we need to
-      fix an operating system and we need to choose a programming
-      language for writing programs. We chose the C language running on
-      a Linux/UNIX operating system (which implements the POSIX standard
-      interface between the programmer and the OS).
-   -  [[https://courses.engr.illinois.edu/cs241/sp2016/mps.html][Assignments]]
-   -  [[https://courses.engr.illinois.edu/cs241/sp2016/labs.html][Labs]]
-   -  [[http://angrave.github.io/sys/#][Github Page]]
-   -  [[https://github.com/angrave/SystemProgramming/wiki][Crowd Sourced
-      Book]]
-
--  [[https://courses.engr.illinois.edu/cs425/fa2016/index.html][CS 425]]
-   *Distributed Systems* /Univ of Illinois, Urbana-Champaign/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  Brilliant set of lectures and reading material covering
-      fundamental concepts in distributed systems such as Vector clocks,
-      Consensus and Paxos. This is the 2016 version by Prof Indranil
-      Gupta.
-   -  [[https://courses.engr.illinois.edu/cs425/fa2016/lectures.html][Lectures]]
-   -  [[https://courses.engr.illinois.edu/cs425/fa2016/assignments.html][Assignments]]
-
--  [[http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/][CS 452]]
-   *Real-Time Programming* /University of Waterloo/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  Write a real-time OS microkernel in C, and application code to
-      operate a model train set in response to real-time sensor
-      information. The communication with the train set runs at 2400
-      baud so it takes about 61 milliseconds to ask all of the sensors
-      for data about the train's possible location. This makes it
-      particularly challenging because a train can move about 3
-      centimeters in that time. One of the most challenging and
-      time-consuming courses at the University of Waterloo.
-   -  [[http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/assignments/index.html][Assignments]]
-   -  [[http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/notes/index.html][Lecture
-      notes]]
-
--  [[http://www.cs.cornell.edu/courses/CS2043/2014sp/][CS 2043]] *Unix
-   Tools & Scripting* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  UNIX-like systems are increasingly being used on personal
-      computers, mobile phones, web servers, and many other systems.
-      They represent a wonderful family of programming environments
-      useful both to computer scientists and to people in many other
-      fields, such as computational biology and computational
-      linguistics, in which data is naturally represented by strings.
-      This course provides an intensive training to develop skills in
-      Unix command line tools and scripting that enable the
-      accomplishment and automation of large and challenging computing
-      tasks. The syllabus takes students from shell basics and piping,
-      to regular-expression processing tools, to shell scripting and
-      Python.
-   -  [[http://www.cs.cornell.edu/courses/CS2043/2014sp/][Syllabus]]
-   -  [[http://www.cs.cornell.edu/courses/CS2043/2014sp/][Lectures]]
-   -  [[http://www.cs.cornell.edu/courses/CS2043/2014sp/][Assignments]]
-
--  [[http://www.cs.cornell.edu/courses/cs3410/2016fa/][CS 3410]]
-   *Computer System Organization and Programming* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  CS3410 provides an introduction to computer organization, systems
-      programming and the hardware/software interface. Topics include
-      instruction sets, computer arithmetic, datapath design, data
-      formats, addressing modes, memory hierarchies including caches and
-      virtual memory, I/O devices, bus-based I/O systems, and multicore
-      architectures. Students learn assembly language programming and
-      design a pipelined RISC processor.
-   -  [[http://www.cs.cornell.edu/courses/CS3410/2014sp/schedule.html][Lectures]]
-   -  [[http://www.cs.cornell.edu/courses/CS3410/2014sp/schedule.html][Assignments]]
-
--  [[http://www.cs.cornell.edu/courses/CS4410/2014fa/][CS 4410]]
-   *Operating Systems* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  CS 4410 covers systems programming and introductory operating
-      system design and implementation. We will cover the basics of
-      operating systems, namely structure, concurrency, scheduling,
-      synchronization, memory management, filesystems, security and
-      networking. The course is open to any undergraduate who has
-      mastered the material in CS3410/ECE3140.
-   -  [[http://www.cs.cornell.edu/courses/CS4410/2014fa/slides/01-intro.pptx][Syllabus]]
-   -  [[http://www.cs.cornell.edu/courses/CS4410/2014fa/lectures.php][Lectures]]
-
--  [[http://rust-class.org/index.html][CS 4414]] *Operating Systems*
-   /University of Virginia/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-
-   -  A course (that) covers topics including: Analysis process
-      communication and synchronization; resource management; virtual
-      memory management algorithms; file systems; and networking and
-      distributed systems. The primary goal of this course is to improve
-      your ability to build scalable, robust and secure computing
-      systems. It focuses on doing that by understanding what underlies
-      the core abstractions of modern computer systems.
-   -  [[http://rust-class.org/pages/syllabus.html][Syllabus]]
-   -  [[http://rust-class.org/pages/classes.html][Lectures]]
-
--  [[http://www.cs.cornell.edu/Courses/CS5412/2014sp/][CS 5412]] *Cloud
-   Computing* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  Taught by one of the stalwarts of this field, Prof Ken Birman,
-      this course has a fantastic set of slides that one can go through.
-      The Prof's
-      [[http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154][book]]
-      is also a gem and recommended as a must read in Google's tutorial
-      on
-      [[http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html][Distributed
-      System Design]]
-   -  [[http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm][Slides]]
-
--  [[http://comp.uark.edu/~wingning/csce3613/csce3613.html][CSCE 3613]]
-   *Operating Systems* /University of Arkansas (Fayetteville)/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-   - An introduction to operating systems including topics in system
-   structures, process management, storage management, files,
-   distributed systems, and case studies.
-
-   -  [[http://comp.uark.edu/~wingning/csce3613/CSCE3613.pdf][Syllabus]]
-   -  [[http://comp.uark.edu/~wingning/csce3613/Homework3613.html][Assignments]]
-   -  [[http://comp.uark.edu/~wingning/csce3613/CourseNote3613.html][Lecture
-      Notes]]
-   -  [[http://comp.uark.edu/~wingning/csce3613/Link3613.html][Readings]]
-
--  [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/index.html][CSCI-UA.0202:
-   Operating Systems (Undergrad)]] *Operating Systems* /NYU/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  NYU's operating system course. It's a fundamental course focusing
-      basic ideas of operating systems, including memory management,
-      process shceduling, file system, ect. It also includes some
-      recomended reading materials. What's more, there are a series of
-      hands-on lab materials, helping you easily understand OS.
-   -  [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/labs.html][Assignments]]
-   -  [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/syllabus.html][Lectures]]
-   -  [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/exams.html][Old
-      Exams]]
-
--  [[http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php][CSCI
-   360]] *Computer Architecture 3* /CUNY Hunter College/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  A course that covers cache design, buses, memory hierarchies,
-      processor-peripheral interfaces, and multiprocessors, including
-      GPUs.
-
--  [[http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php][CSCI
-   493.66]] *UNIX System Programming (formerly UNIX Tools)* /CUNY Hunter
-   College/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  A course that is mostly about writing programs against the UNIX
-      API, covering all of the basic parts of the kernel interface and
-      libraries, including files, processes, terminal control, signals,
-      and threading.
-
--  [[http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php][CSCI
-   493.75]] *Parallel Computing* /CUNY Hunter College/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  The course is an introduction to parallel algorithms and parallel
-      programming in C and C++, using the Message Passing Interface
-      (MPI) and the OpenMP application programming interface. It also
-      includes a brief introduction to parallel architectures and
-      interconnection networks. It is both theoretical and practical,
-      including material on design methodology, performance analysis,
-      and mathematical concepts, as well as details on programming using
-      MPI and OpenMP.
-
--  [[https://www.ops-class.org/][Hack the Kernel]] *Introduction to
-   Operating Systems* /SUNY University at Buffalo, NY/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  This course is an introduction to operating system design and
-      implementation. We study operating systems because they are
-      examples of mature and elegant solutions to a difficult design
-      problem: how to safely and efficiently share system resources and
-      provide abstractions useful to applications.
-   -  For the processor, memory, and disks, we discuss how the operating
-      system allocates each resource and explore the design and
-      implementation of related abstractions. We also establish
-      techniques for testing and improving system performance and
-      introduce the idea of hardware virtualization. Programming
-      assignments provide hands-on experience with implementing core
-      operating system components in a realistic development
-      environment. Course by
-      [[https://blue.cse.buffalo.edu/people/gwa/][Dr.Geoffrey Challen]]
-   -  [[https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/][Syllabus]]
-   -  [[https://www.ops-class.org/slides/][Slides]]
-   -  [[https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3][Video
-      lectures]]
-   -  [[https://www.ops-class.org/asst/0/][Assignments]]
-   -  [[https://www.ops-class.org/exams/][Old Exams]]
-
--  [[http://patricklam.ca/p4p/][ECE 459]] *Programming for Performance*
-   /University of Waterloo/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-
-   -  Learn techniques for profiling, rearchitecting, and implementing
-      software systems that can handle industrial-sized inputs, and to
-      design and build critical software infrastructure. Learn
-      performance optimization through parallelization, multithreading,
-      async I/O, vectorization and GPU programming, and distributed
-      computing.
-   -  [[https://github.com/patricklam/p4p-2015/tree/master/lectures][Lecture
-      slides]]
-
--  [[http://verifiablerobotics.com/courses/mae6740.html][MAE 6740]]
-   *Hybrid Systems* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  This course will discuss the modeling of hybrid systems, the
-      analysis and simulation of their behavior, different control
-      methodologies as well as verification techniques. To complement
-      the theoretical aspect, several state of the art tools will be
-      introduced. New and emerging topics in hybrid systems research
-      will be presented as well. As the field of hybrid systems is a
-      truly interdisciplinary one, drawing researchers from dynamical
-      systems, control theory, computer aided verification, automata
-      theory and other fields, one of the goals of this course is to
-      teach students the language that will allow them to bridge the gap
-      between these traditionally disjoint disciplines.
-   -  [[http://verifiablerobotics.com/courses/mae6740.html][Lectures]]
-   -  [[http://verifiablerobotics.com/courses/mae6740.html][Readings]]
-
--  [[http://dcg.ethz.ch/lectures/podc_allstars/][PODC]] *Principles of
-   Distributed Computing* /ETH-Zurich/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  Explore essential algorithmic ideas and lower bound techniques,
-      basically the "pearls" of distributed computing in an easy-to-read
-      set of lecture notes, combined with complete exercises and
-      solutions.
-   -  [[http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf][Book]]
-   -  [[http://dcg.ethz.ch/lectures/podc_allstars/][Assignments and
-      Solutions]]
-
--  [[http://homes.cs.washington.edu/~djg/teachingMaterials/spac/][SPAC]]
-   *Parallelism and Concurrency* /Univ of Washington/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  Technically not a course nevertheless an awesome collection of
-      materials used by Prof Dan Grossman to teach parallelism and
-      concurrency concepts to sophomores at UWash
-
--  [[http://css.csail.mit.edu/6.824/2014/index.html][6.824]]
-   *Distributed Systems* /MIT/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  MIT's graduate-level DS course with a focus on fault tolerance,
-      replication, and consistency, all taught via awesome lab
-      assignments in Golang!
-   -  [[http://css.csail.mit.edu/6.824/2014/labs/][Assignments]] - Just
-      do =git clone git://g.csail.mit.edu/6.824-golabs-2014 6.824=
-   -  [[http://css.csail.mit.edu/6.824/2014/schedule.html][Readings]]
-
--  [[http://pdos.csail.mit.edu/6.828/2014/][6.828]] *Operating Systems*
-   /MIT/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  MIT's operating systems course focusing on the fundamentals of OS
-      design including booting, memory management, environments, file
-      systems, multitasking, and more. In a series of lab assignments,
-      you will build JOS, an OS exokernel written in C.
-   -  [[http://pdos.csail.mit.edu/6.828/2014/labguide.html][Assignments]]
-   -  [[http://pdos.csail.mit.edu/6.828/2014/schedule.html][Lectures]]
-   -  [[http://pdos.csail.mit.edu/6.828/2011/schedule.html][Videos]]
-      Note: These are student recorded cam videos of the 2011 course.
-      The videos explain a lot of concepts required for the labs and
-      assignments.
-
--  [[http://courses.cs.washington.edu/courses/csep552/16wi/][CSEP 552]]
-   *Distributed Systems* /University of Washington/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  CSEP552 is a graduate course on distributed systems. Distributed
-      systems have become central to many aspects of how computers are
-      used, from web applications to e-commerce to content distribution.
-      This course will cover abstractions and implementation techniques
-      for the construction of distributed systems, including client
-      server computing, the web, cloud computing, peer-to-peer systems,
-      and distributed storage systems. Topics will include remote
-      procedure call, maintaining consistency of distributed state,
-      fault tolerance, high availability, and other topics. As we
-      believe the best way to learn the material is to build it, there
-      will be a series of hands-on programming projects.
-   -  [[http://courses.cs.washington.edu/courses/csep552/13sp/video/][Lectures]]
-      of a previous session are available to watch.
-
--  [[http://www.cs.cmu.edu/~213/][15-213]] *Introduction to Computer
-   Systems (ICS)* /Carnegie-Mellon University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  The ICS course provides a programmer's view of how computer
-      systems execute programs, store information, and communicate. It
-      enables students to become more effective programmers, especially
-      in dealing with issues of performance, portability and robustness.
-      It also serves as a foundation for courses on compilers, networks,
-      operating systems, and computer architecture, where a deeper
-      understanding of systems-level issues is required. Topics covered
-      include: machine-level code and its generation by optimizing
-      compilers, performance evaluation and optimization, computer
-      arithmetic, memory organization and management, networking
-      technology and protocols, and supporting concurrent computation.
-   -  This is the must-have course for everyone in CMU who wants to
-      learn some computer science no matter what major are you in.
-      Because it's CMU (The course number is as same as the zip code of
-      CMU)!
-   -  [[http://www.cs.cmu.edu/~213/schedule.html][Lecture Notes]]
-   -  [[https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22][Videos]]
-   -  [[http://csapp.cs.cmu.edu/public/labs.html][Assignments]]
-
--  [[http://15418.courses.cs.cmu.edu/spring2015/][15-418]] *Parallel
-   Computer Architecture and Programming* /Carnegie-Mellon University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  The goal of this course is to provide a deep understanding of the
-      fundamental principles and engineering trade-offs involved in
-      designing modern parallel computing systems as well as to teach
-      parallel programming techniques necessary to effectively utilize
-      these machines. Because writing good parallel programs requires an
-      understanding of key machine performance characteristics, this
-      course will cover both parallel hardware and software design.
-   -  [[http://15418.courses.cs.cmu.edu/spring2015/exercises][Assignments]]
-   -  [[http://15418.courses.cs.cmu.edu/spring2015/reading][Lecture
-      Notes]]
-   -  [[https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22][Lecture
-      Videos]]
-   -  [[http://15418.courses.cs.cmu.edu/spring2015/reading][Readings]]
-
--  [[http://www.cs.cmu.edu/~dga/15-440/F12/index.html][15-440]]
-   *Distributed Systems* /Carnegie-Mellon University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  Introduction to distributed systems with a focus on teaching
-      concepts via projects implemented in the Go programming language.
-   -  [[http://www.cs.cmu.edu/~dga/15-440/F12/assignments.html][Assignments]]
-
--  [[http://15721.courses.cs.cmu.edu/spring2016/][15-721]] *Database
-   Systems* /Carnegie-Mellon University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  This course is a comprehensive study of the internals of modern
-      database management systems. It will cover the core concepts and
-      fundamentals of the components that are used in both
-      high-performance transaction processing systems (OLTP) and
-      large-scale analytical systems (OLAP). The class will stress both
-      efficiency and correctness of the implementation of these ideas.
-      All class projects will be in the context of a real in-memory,
-      multi-core database system. The course is appropriate for graduate
-      students in software systems and for advanced undergraduates with
-      strong systems programming skills.
-   -  [[http://15721.courses.cs.cmu.edu/spring2016/syllabus.html][Assignments]]
-   -  [[https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O][Lecture
-      Videos]]
-   -  [[http://15721.courses.cs.cmu.edu/spring2016/schedule.html][Readings]]
-
--  [[http://www.andrew.cmu.edu/course/15-749/][15-749]] *Engineering
-   Distributed Systems* /Carnegie-Mellon University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  A project focused course on Distributed Systems with an awesome
-      list of readings
-   -  [[http://www.andrew.cmu.edu/course/15-749/READINGS/][Readings]]
-
--  [[http://www.ece.cmu.edu/~ece447/s14/doku.php?id=start][18-447]]
-   *Introduction to Computer Architecture* /CMU/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  Very comprehensive material on Computer Architecture - definitely
-      more than just "introduction". Online material is very
-      user-friendly, even the recitation videos available online. This
-      is the Spring'14 version by Prof.
-      [[http://users.ece.cmu.edu/~omutlu/][Onur Mutlu]]
-   -  [[http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule][Lectures
-      and Recitation]]
-   -  [[http://www.ece.cmu.edu/~ece447/s14/doku.php?id=homeworks][Homeworks]]
-      7 HWs with answer set as well
-   -  [Readings]
-      (http://www.ece.cmu.edu/~ece447/s14/doku.php?id=readings)
-
--  [[http://www.distributed-systems.net/index.php?id=distributed-systems-principles-and-paradigms][VU:Distributed
-   Systems]] *Distributed Systems: Principles and Paradigms (Fall 2012)*
-   /Vrije Universiteit, Amsterdam/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  Distributed systems often appear to be highly complex and
-      intertwined networked systems. Touching one component often
-      affects many others in surprising ways. In this course, we aim at
-      explaining the basics of distributed systems by systematically
-      taking different perspectives, and subsequently bringing these
-      perspectives together by looking at often-applied organizations of
-      distributed systems. This course closely follows the timeless
-      classic @@html:<b>@@Distributed Systems: Principles and
-      Paradigms@@html:</b>@@ by some of the pioneers in the field of
-      Distributes systems-Andrew S. Tanenbaum and Maarten van Steen
-   -  [[http://www.distributed-systems.net/courses/ds/ds-slides/][Slides]]
-   -  [[http://www.distributed-systems.net/courses/ds/ds-screencasts/][Video
-      lectures]]
-   -  [[http://www.distributed-systems.net/courses/ds/ds-exams/][Exams]]
-
--  [[https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/][CSE
-   421/521 Spring 2016:ops-class.org]] *Introduction to Operating
-   Systems* /SUNY University at Buffalo, NY/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  This course is an introduction to operating system design and
-      implementation. We study operating systems because they are
-      examples of mature and elegant solutions to a difficult design
-      problem: how to safely and efficiently share system resources and
-      provide abstractions useful to applications.
-   -  For the processor, memory, and disks, we discuss how the operating
-      system allocates each resource and explore the design and
-      implementation of related abstractions. We also establish
-      techniques for testing and improving system performance and
-      introduce the idea of hardware virtualization. Programming
-      assignments provide hands-on experience with implementing core
-      operating system components in a realistic development
-      environment. Course by
-      [[https://blue.cse.buffalo.edu/people/gwa/][Dr.Geoffrey Challen]]
-
-   -  [[https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/][Syllabus]]
-   -  [[https://www.ops-class.org/slides/][Slides]]
-   -  [[https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3][Video
-      lectures]]
-   -  [[https://www.ops-class.org/asst/0/][Assignments]]
-   -  [[https://www.ops-class.org/exams/][Old Exams]]
-
--  [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/index.html][CSCI-UA.0202:
-   Operating Systems (Undergrad)]] *Operating Systems* /NYU/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-   - NYU's operating system course. It's a fundamental course focusing
-   basic ideas of operating systems, including memory management,
-   process shceduling, file system, ect. It also includes some
-   recomended reading materials. What's more, there are a series of
-   hands-on lab materials, helping you easily understand OS.
-
-   -  [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/labs.html][Assignments]]
-   -  [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/syllabus.html][Lectures]]
-   -  [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/exams.html][Old
-      Exams]]
+    :LOGBOOK:
+    CLOCK: [2017-03-20 一 17:33]--[2017-03-20 一 17:58] =>  0:25
+    :END:
+
+- [[http://www-inst.eecs.berkeley.edu/~cs61c/sp17/][CS 61C]] *Great Ideas in Computer Architecture (Machine Structures)* /UC Berkeley/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+  - [[https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_][Lecture Videos]]
+  - [[http://www-inst.eecs.berkeley.edu/~cs61c/sp17/#Calendar][Lecture Notes]]
+  - [[http://www-inst.eecs.berkeley.edu/~cs61c/sp17/#Resources][Resources]]
+  - [[https://hkn.eecs.berkeley.edu/exams/course/CS/61C][Old Exams]]
+  - 计算机体系结构,设计的内容有: MIPS架构、汇编器、链接器、CPU、缓存内容
+  - [目前进度]: 完成了project1和project2，完成了assembler和linker。project设计得还是相当有想法的，受益颇多。project3就暂且放一会儿，大学期间玩FPGA写过类似的东西，感觉帮助应该不大.
+
+- [[https://courseware.stanford.edu/pg/courses/lectures/371747][CS 107]] *Computer Organization & Systems* /Stanford University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+
+  - CS107 is the third course in Stanford's introductory programming
+    sequence. The course will work from the C programming language
+    down to the microprocessor to de-mystify the machine. With a
+    complete understanding of how computer systems execute programs
+    and manipulate data, you will become a more effective programmer,
+    especially in dealing with issues of debugging, performance,
+    portability, and robustness.
+  - [[https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10][Lecture Videos]]
+  - [[http://web.stanford.edu/class/cs107/assignments.html][Assignments]]
+
+- [[https://6004.mit.edu/][6.004]] *Computation Structures* /MIT/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+
+  - Introduces architecture of digital systems, emphasizing structural
+    principles common to a wide range of technologies. Multilevel
+    implementation strategies; definition of new primitives (e.g.,
+    gates, instructions, procedures, processes) and their
+    mechanization using lower-level elements. Analysis of potential
+    concurrency; precedence constraints and performance measures;
+    pipelined and multidimensional systems. Instruction set design
+    issues; architectural support for contemporary software
+    structures. 4 Engineering Design Points. 6.004 offers an
+    introduction to the engineering of digital systems. Starting with
+    MOS transistors, the course develops of series of building blocks
+    logic gates, combinational and sequential circuits, finite-state
+    machines, computers and finally complete systems. Both hardware
+    and software mechanisms are explored through a series of design
+    examples.
+  - [[https://www.youtube.com/watch?v=9DWlqtsNGV0&index=1&list=PLmP5iIyVnKPQ-cO_EENdUgEdlRf0u5LYa][Youtube Playlist]]
+  - [[http://computationstructures.org/notes/tradeoffs/notes.html][Lecture Notes]]
+  - [[http://computationstructures.org/exercises/cmos/lab.html][Labs-Assignments]]
+
+- [[http://cs162.eecs.berkeley.edu/][CS 162]] *Operating Systems and Systems Programming* /UC Berkeley/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - The purpose of this course is to teach the design of operating
+    systems and operating systems concepts that appear in other
+    advanced systems. Topics we will cover include concepts of
+    operating systems, systems programming, networked and distributed
+    systems, and storage systems, including multiple-program systems
+    (processes, interprocess communication, and synchronization),
+    memory allocation (segmentation, paging), resource allocation and
+    scheduling, file systems, basic networking (sockets, layering,
+    APIs, reliability), transactions, security, and privacy.
+
+    - Operating Systems course by the Chair of EECS, UC Berkeley [[http://www.cs.berkeley.edu/~culler/][David Culler]]
+    - [[https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c][Youtube Playlist]] Spring 2015 lectures
+    - 已在上(2016, fall)， mini os 采用的是pintos。目前完成hw0和hw1。
+
+- [[https://inst.eecs.berkeley.edu/~cs168/fa14/][CS 168]] *Introduction
+  to the Internet: Architecture and Protocols* /UC Berkeley/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+
+  - This course is an introduction to the Internet architecture. We
+    will focus on the concepts and fundamental design principles that
+    have contributed to the Internet's scalability and robustness and
+    survey the various protocols and algorithms used within this
+    architecture. Topics include layering, addressing, intradomain
+    routing, interdomain routing, reliable delivery, congestion
+    control, and the core protocols (e.g., TCP, UDP, IP, DNS, and
+    HTTP) and network technologies (e.g., Ethernet, wireless).
+  - [[https://inst.eecs.berkeley.edu/~cs168/fa14/class.html][Lecture
+    Notes & Assignments]]
+  - [[https://inst.eecs.berkeley.edu/~cs168/fa14/][Discussion Notes]]
+  - 已在上（2016, fall）
+
+- [[https://sites.google.com/site/cs186spring2015/][CS 186]]
+  *Introduction to Database Systems* /UC Berkeley/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - In the project assignments in CS186, you will write a basic
+    database management system called SimpleDB. For this project, you
+    will focus on implementing the core modules required to access
+    stored data on disk; in future projects, you will add support for
+    various query processing operators, as well as transactions,
+    locking, and concurrent queries.
+  - [[https://sites.google.com/site/cs186fall2013/section-notes][Lecture
+    Notes]]
+  - [[https://sites.google.com/site/cs186fall2013/homeworks][Projects]]
+  - 已在上(2016, fall)。
+
+- [[http://courses.cms.caltech.edu/cs179/][CS 179]] *GPU Programming*
+  /Caltech/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - This course will cover programming techniques for the GPU. The
+    course will introduce NVIDIA's parallel computing language, CUDA.
+    Beyond covering the CUDA programming model and syntax, the course
+    will also discuss GPU architecture, high performance computing on
+    GPUs, parallel algorithms, CUDA libraries, and applications of GPU
+    computing.
+  - [[http://courses.cms.caltech.edu/cs179/][Assignments]]
+  - [[http://courses.cms.caltech.edu/cs179/][Lecture Notes]]
+
+- [[https://courses.engr.illinois.edu/cs241/fa2014/index.html][CS 241]]
+  *Systems Programming (Fall 2014)* /Univ of Illinois,
+  Urbana-Champaign/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - System programming refers to writing code that tasks advantage of
+    operating system support for programmers. This course is designed
+    to introduce you to system programming. By the end of this course,
+    you should be proficient at writing programs that take full
+    advantage of operating system support. To be concrete, we need to
+    fix an operating system and we need to choose a programming
+    language for writing programs. We chose the C language running on
+    a Linux/UNIX operating system (which implements the POSIX standard
+    interface between the programmer and the OS).
+  - [[https://courses.engr.illinois.edu/cs241/sp2016/mps.html][Assignments]]
+  - [[https://courses.engr.illinois.edu/cs241/sp2016/labs.html][Labs]]
+  - [[http://angrave.github.io/sys/#][Github Page]]
+  - [[https://github.com/angrave/SystemProgramming/wiki][Crowd Sourced
+    Book]]
+
+- [[https://courses.engr.illinois.edu/cs425/fa2016/index.html][CS 425]]
+  *Distributed Systems* /Univ of Illinois, Urbana-Champaign/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - Brilliant set of lectures and reading material covering
+    fundamental concepts in distributed systems such as Vector clocks,
+    Consensus and Paxos. This is the 2016 version by Prof Indranil
+    Gupta.
+  - [[https://courses.engr.illinois.edu/cs425/fa2016/lectures.html][Lectures]]
+  - [[https://courses.engr.illinois.edu/cs425/fa2016/assignments.html][Assignments]]
+
+- [[http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/][CS 452]]
+  *Real-Time Programming* /University of Waterloo/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - Write a real-time OS microkernel in C, and application code to
+    operate a model train set in response to real-time sensor
+    information. The communication with the train set runs at 2400
+    baud so it takes about 61 milliseconds to ask all of the sensors
+    for data about the train's possible location. This makes it
+    particularly challenging because a train can move about 3
+    centimeters in that time. One of the most challenging and
+    time-consuming courses at the University of Waterloo.
+  - [[http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/assignments/index.html][Assignments]]
+  - [[http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/notes/index.html][Lecture
+    notes]]
+
+- [[http://www.cs.cornell.edu/courses/CS2043/2014sp/][CS 2043]] *Unix
+  Tools & Scripting* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - UNIX-like systems are increasingly being used on personal
+    computers, mobile phones, web servers, and many other systems.
+    They represent a wonderful family of programming environments
+    useful both to computer scientists and to people in many other
+    fields, such as computational biology and computational
+    linguistics, in which data is naturally represented by strings.
+    This course provides an intensive training to develop skills in
+    Unix command line tools and scripting that enable the
+    accomplishment and automation of large and challenging computing
+    tasks. The syllabus takes students from shell basics and piping,
+    to regular-expression processing tools, to shell scripting and
+    Python.
+  - [[http://www.cs.cornell.edu/courses/CS2043/2014sp/][Syllabus]]
+  - [[http://www.cs.cornell.edu/courses/CS2043/2014sp/][Lectures]]
+  - [[http://www.cs.cornell.edu/courses/CS2043/2014sp/][Assignments]]
+
+- [[http://www.cs.cornell.edu/courses/cs3410/2016fa/][CS 3410]]
+  *Computer System Organization and Programming* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - CS3410 provides an introduction to computer organization, systems
+    programming and the hardware/software interface. Topics include
+    instruction sets, computer arithmetic, datapath design, data
+    formats, addressing modes, memory hierarchies including caches and
+    virtual memory, I/O devices, bus-based I/O systems, and multicore
+    architectures. Students learn assembly language programming and
+    design a pipelined RISC processor.
+  - [[http://www.cs.cornell.edu/courses/CS3410/2014sp/schedule.html][Lectures]]
+  - [[http://www.cs.cornell.edu/courses/CS3410/2014sp/schedule.html][Assignments]]
+
+- [[http://www.cs.cornell.edu/courses/CS4410/2014fa/][CS 4410]]
+  *Operating Systems* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - CS 4410 covers systems programming and introductory operating
+    system design and implementation. We will cover the basics of
+    operating systems, namely structure, concurrency, scheduling,
+    synchronization, memory management, filesystems, security and
+    networking. The course is open to any undergraduate who has
+    mastered the material in CS3410/ECE3140.
+  - [[http://www.cs.cornell.edu/courses/CS4410/2014fa/slides/01-intro.pptx][Syllabus]]
+  - [[http://www.cs.cornell.edu/courses/CS4410/2014fa/lectures.php][Lectures]]
+
+- [[http://rust-class.org/index.html][CS 4414]] *Operating Systems*
+  /University of Virginia/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+
+  - A course (that) covers topics including: Analysis process
+    communication and synchronization; resource management; virtual
+    memory management algorithms; file systems; and networking and
+    distributed systems. The primary goal of this course is to improve
+    your ability to build scalable, robust and secure computing
+    systems. It focuses on doing that by understanding what underlies
+    the core abstractions of modern computer systems.
+  - [[http://rust-class.org/pages/syllabus.html][Syllabus]]
+  - [[http://rust-class.org/pages/classes.html][Lectures]]
+
+- [[http://www.cs.cornell.edu/Courses/CS5412/2014sp/][CS 5412]] *Cloud
+  Computing* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - Taught by one of the stalwarts of this field, Prof Ken Birman,
+    this course has a fantastic set of slides that one can go through.
+    The Prof's
+    [[http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154][book]]
+    is also a gem and recommended as a must read in Google's tutorial
+    on
+    [[http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html][Distributed
+    System Design]]
+  - [[http://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm][Slides]]
+
+- [[http://comp.uark.edu/~wingning/csce3613/csce3613.html][CSCE 3613]]
+  *Operating Systems* /University of Arkansas (Fayetteville)/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+  - An introduction to operating systems including topics in system
+  structures, process management, storage management, files,
+  distributed systems, and case studies.
+
+  - [[http://comp.uark.edu/~wingning/csce3613/CSCE3613.pdf][Syllabus]]
+  - [[http://comp.uark.edu/~wingning/csce3613/Homework3613.html][Assignments]]
+  - [[http://comp.uark.edu/~wingning/csce3613/CourseNote3613.html][Lecture
+    Notes]]
+  - [[http://comp.uark.edu/~wingning/csce3613/Link3613.html][Readings]]
+
+- [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/index.html][CSCI-UA.0202:
+  Operating Systems (Undergrad)]] *Operating Systems* /NYU/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - NYU's operating system course. It's a fundamental course focusing
+    basic ideas of operating systems, including memory management,
+    process shceduling, file system, ect. It also includes some
+    recomended reading materials. What's more, there are a series of
+    hands-on lab materials, helping you easily understand OS.
+  - [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/labs.html][Assignments]]
+  - [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/syllabus.html][Lectures]]
+  - [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/exams.html][Old
+    Exams]]
+
+- [[http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php][CSCI
+  360]] *Computer Architecture 3* /CUNY Hunter College/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - A course that covers cache design, buses, memory hierarchies,
+    processor-peripheral interfaces, and multiprocessors, including
+    GPUs.
+
+- [[http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php][CSCI
+  493.66]] *UNIX System Programming (formerly UNIX Tools)* /CUNY Hunter
+  College/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - A course that is mostly about writing programs against the UNIX
+    API, covering all of the basic parts of the kernel interface and
+    libraries, including files, processes, terminal control, signals,
+    and threading.
+
+- [[http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php][CSCI
+  493.75]] *Parallel Computing* /CUNY Hunter College/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - The course is an introduction to parallel algorithms and parallel
+    programming in C and C++, using the Message Passing Interface
+    (MPI) and the OpenMP application programming interface. It also
+    includes a brief introduction to parallel architectures and
+    interconnection networks. It is both theoretical and practical,
+    including material on design methodology, performance analysis,
+    and mathematical concepts, as well as details on programming using
+    MPI and OpenMP.
+
+- [[https://www.ops-class.org/][Hack the Kernel]] *Introduction to
+  Operating Systems* /SUNY University at Buffalo, NY/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - This course is an introduction to operating system design and
+    implementation. We study operating systems because they are
+    examples of mature and elegant solutions to a difficult design
+    problem: how to safely and efficiently share system resources and
+    provide abstractions useful to applications.
+  - For the processor, memory, and disks, we discuss how the operating
+    system allocates each resource and explore the design and
+    implementation of related abstractions. We also establish
+    techniques for testing and improving system performance and
+    introduce the idea of hardware virtualization. Programming
+    assignments provide hands-on experience with implementing core
+    operating system components in a realistic development
+    environment. Course by
+    [[https://blue.cse.buffalo.edu/people/gwa/][Dr.Geoffrey Challen]]
+  - [[https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/][Syllabus]]
+  - [[https://www.ops-class.org/slides/][Slides]]
+  - [[https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3][Video
+    lectures]]
+  - [[https://www.ops-class.org/asst/0/][Assignments]]
+  - [[https://www.ops-class.org/exams/][Old Exams]]
+
+- [[http://patricklam.ca/p4p/][ECE 459]] *Programming for Performance*
+  /University of Waterloo/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+
+  - Learn techniques for profiling, rearchitecting, and implementing
+    software systems that can handle industrial-sized inputs, and to
+    design and build critical software infrastructure. Learn
+    performance optimization through parallelization, multithreading,
+    async I/O, vectorization and GPU programming, and distributed
+    computing.
+  - [[https://github.com/patricklam/p4p-2015/tree/master/lectures][Lecture
+    slides]]
+
+- [[http://verifiablerobotics.com/courses/mae6740.html][MAE 6740]]
+  *Hybrid Systems* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - This course will discuss the modeling of hybrid systems, the
+    analysis and simulation of their behavior, different control
+    methodologies as well as verification techniques. To complement
+    the theoretical aspect, several state of the art tools will be
+    introduced. New and emerging topics in hybrid systems research
+    will be presented as well. As the field of hybrid systems is a
+    truly interdisciplinary one, drawing researchers from dynamical
+    systems, control theory, computer aided verification, automata
+    theory and other fields, one of the goals of this course is to
+    teach students the language that will allow them to bridge the gap
+    between these traditionally disjoint disciplines.
+  - [[http://verifiablerobotics.com/courses/mae6740.html][Lectures]]
+  - [[http://verifiablerobotics.com/courses/mae6740.html][Readings]]
+
+- [[http://dcg.ethz.ch/lectures/podc_allstars/][PODC]] *Principles of
+  Distributed Computing* /ETH-Zurich/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - Explore essential algorithmic ideas and lower bound techniques,
+    basically the "pearls" of distributed computing in an easy-to-read
+    set of lecture notes, combined with complete exercises and
+    solutions.
+  - [[http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf][Book]]
+  - [[http://dcg.ethz.ch/lectures/podc_allstars/][Assignments and
+    Solutions]]
+
+- [[http://homes.cs.washington.edu/~djg/teachingMaterials/spac/][SPAC]]
+  *Parallelism and Concurrency* /Univ of Washington/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - Technically not a course nevertheless an awesome collection of
+    materials used by Prof Dan Grossman to teach parallelism and
+    concurrency concepts to sophomores at UWash
+
+- [[http://css.csail.mit.edu/6.824/2014/index.html][6.824]]
+  *Distributed Systems* /MIT/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - MIT's graduate-level DS course with a focus on fault tolerance,
+    replication, and consistency, all taught via awesome lab
+    assignments in Golang!
+  - [[http://css.csail.mit.edu/6.824/2014/labs/][Assignments]] - Just
+    do =git clone git://g.csail.mit.edu/6.824-golabs-2014 6.824=
+  - [[http://css.csail.mit.edu/6.824/2014/schedule.html][Readings]]
+
+- [[http://pdos.csail.mit.edu/6.828/2014/][6.828]] *Operating Systems*
+  /MIT/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - MIT's operating systems course focusing on the fundamentals of OS
+    design including booting, memory management, environments, file
+    systems, multitasking, and more. In a series of lab assignments,
+    you will build JOS, an OS exokernel written in C.
+  - [[http://pdos.csail.mit.edu/6.828/2014/labguide.html][Assignments]]
+  - [[http://pdos.csail.mit.edu/6.828/2014/schedule.html][Lectures]]
+  - [[http://pdos.csail.mit.edu/6.828/2011/schedule.html][Videos]]
+    Note: These are student recorded cam videos of the 2011 course.
+    The videos explain a lot of concepts required for the labs and
+    assignments.
+
+- [[http://courses.cs.washington.edu/courses/csep552/16wi/][CSEP 552]]
+  *Distributed Systems* /University of Washington/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - CSEP552 is a graduate course on distributed systems. Distributed
+    systems have become central to many aspects of how computers are
+    used, from web applications to e-commerce to content distribution.
+    This course will cover abstractions and implementation techniques
+    for the construction of distributed systems, including client
+    server computing, the web, cloud computing, peer-to-peer systems,
+    and distributed storage systems. Topics will include remote
+    procedure call, maintaining consistency of distributed state,
+    fault tolerance, high availability, and other topics. As we
+    believe the best way to learn the material is to build it, there
+    will be a series of hands-on programming projects.
+  - [[http://courses.cs.washington.edu/courses/csep552/13sp/video/][Lectures]]
+    of a previous session are available to watch.
+
+- [[http://www.cs.cmu.edu/~213/][15-213]] *Introduction to Computer
+  Systems (ICS)* /Carnegie-Mellon University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - The ICS course provides a programmer's view of how computer
+    systems execute programs, store information, and communicate. It
+    enables students to become more effective programmers, especially
+    in dealing with issues of performance, portability and robustness.
+    It also serves as a foundation for courses on compilers, networks,
+    operating systems, and computer architecture, where a deeper
+    understanding of systems-level issues is required. Topics covered
+    include: machine-level code and its generation by optimizing
+    compilers, performance evaluation and optimization, computer
+    arithmetic, memory organization and management, networking
+    technology and protocols, and supporting concurrent computation.
+  - This is the must-have course for everyone in CMU who wants to
+    learn some computer science no matter what major are you in.
+    Because it's CMU (The course number is as same as the zip code of
+    CMU)!
+  - [[http://www.cs.cmu.edu/~213/schedule.html][Lecture Notes]]
+  - [[https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22][Videos]]
+  - [[http://csapp.cs.cmu.edu/public/labs.html][Assignments]]
+
+- [[http://15418.courses.cs.cmu.edu/spring2015/][15-418]] *Parallel
+  Computer Architecture and Programming* /Carnegie-Mellon University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - The goal of this course is to provide a deep understanding of the
+    fundamental principles and engineering trade-offs involved in
+    designing modern parallel computing systems as well as to teach
+    parallel programming techniques necessary to effectively utilize
+    these machines. Because writing good parallel programs requires an
+    understanding of key machine performance characteristics, this
+    course will cover both parallel hardware and software design.
+  - [[http://15418.courses.cs.cmu.edu/spring2015/exercises][Assignments]]
+  - [[http://15418.courses.cs.cmu.edu/spring2015/reading][Lecture
+    Notes]]
+  - [[https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22][Lecture
+    Videos]]
+  - [[http://15418.courses.cs.cmu.edu/spring2015/reading][Readings]]
+
+- [[http://www.cs.cmu.edu/~dga/15-440/F12/index.html][15-440]]
+  *Distributed Systems* /Carnegie-Mellon University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - Introduction to distributed systems with a focus on teaching
+    concepts via projects implemented in the Go programming language.
+  - [[http://www.cs.cmu.edu/~dga/15-440/F12/assignments.html][Assignments]]
+
+- [[http://15721.courses.cs.cmu.edu/spring2016/][15-721]] *Database
+  Systems* /Carnegie-Mellon University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - This course is a comprehensive study of the internals of modern
+    database management systems. It will cover the core concepts and
+    fundamentals of the components that are used in both
+    high-performance transaction processing systems (OLTP) and
+    large-scale analytical systems (OLAP). The class will stress both
+    efficiency and correctness of the implementation of these ideas.
+    All class projects will be in the context of a real in-memory,
+    multi-core database system. The course is appropriate for graduate
+    students in software systems and for advanced undergraduates with
+    strong systems programming skills.
+  - [[http://15721.courses.cs.cmu.edu/spring2016/syllabus.html][Assignments]]
+  - [[https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O][Lecture
+    Videos]]
+  - [[http://15721.courses.cs.cmu.edu/spring2016/schedule.html][Readings]]
+
+- [[http://www.andrew.cmu.edu/course/15-749/][15-749]] *Engineering
+  Distributed Systems* /Carnegie-Mellon University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - A project focused course on Distributed Systems with an awesome
+    list of readings
+  - [[http://www.andrew.cmu.edu/course/15-749/READINGS/][Readings]]
+
+- [[http://www.ece.cmu.edu/~ece447/s14/doku.php?id=start][18-447]]
+  *Introduction to Computer Architecture* /CMU/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - Very comprehensive material on Computer Architecture - definitely
+    more than just "introduction". Online material is very
+    user-friendly, even the recitation videos available online. This
+    is the Spring'14 version by Prof.
+    [[http://users.ece.cmu.edu/~omutlu/][Onur Mutlu]]
+  - [[http://www.ece.cmu.edu/~ece447/s14/doku.php?id=schedule][Lectures
+    and Recitation]]
+  - [[http://www.ece.cmu.edu/~ece447/s14/doku.php?id=homeworks][Homeworks]]
+    7 HWs with answer set as well
+  - [Readings]
+    (http://www.ece.cmu.edu/~ece447/s14/doku.php?id=readings)
+
+- [[http://www.distributed-systems.net/index.php?id=distributed-systems-principles-and-paradigms][VU:Distributed
+  Systems]] *Distributed Systems: Principles and Paradigms (Fall 2012)*
+  /Vrije Universiteit, Amsterdam/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - Distributed systems often appear to be highly complex and
+    intertwined networked systems. Touching one component often
+    affects many others in surprising ways. In this course, we aim at
+    explaining the basics of distributed systems by systematically
+    taking different perspectives, and subsequently bringing these
+    perspectives together by looking at often-applied organizations of
+    distributed systems. This course closely follows the timeless
+    classic @@html:<b>@@Distributed Systems: Principles and
+    Paradigms@@html:</b>@@ by some of the pioneers in the field of
+    Distributes systems-Andrew S. Tanenbaum and Maarten van Steen
+  - [[http://www.distributed-systems.net/courses/ds/ds-slides/][Slides]]
+  - [[http://www.distributed-systems.net/courses/ds/ds-screencasts/][Video
+    lectures]]
+  - [[http://www.distributed-systems.net/courses/ds/ds-exams/][Exams]]
+
+- [[https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/][CSE
+  421/521 Spring 2016:ops-class.org]] *Introduction to Operating
+  Systems* /SUNY University at Buffalo, NY/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - This course is an introduction to operating system design and
+    implementation. We study operating systems because they are
+    examples of mature and elegant solutions to a difficult design
+    problem: how to safely and efficiently share system resources and
+    provide abstractions useful to applications.
+  - For the processor, memory, and disks, we discuss how the operating
+    system allocates each resource and explore the design and
+    implementation of related abstractions. We also establish
+    techniques for testing and improving system performance and
+    introduce the idea of hardware virtualization. Programming
+    assignments provide hands-on experience with implementing core
+    operating system components in a realistic development
+    environment. Course by
+    [[https://blue.cse.buffalo.edu/people/gwa/][Dr.Geoffrey Challen]]
+
+  - [[https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/][Syllabus]]
+  - [[https://www.ops-class.org/slides/][Slides]]
+  - [[https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3][Video
+    lectures]]
+  - [[https://www.ops-class.org/asst/0/][Assignments]]
+  - [[https://www.ops-class.org/exams/][Old Exams]]
+
+- [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/index.html][CSCI-UA.0202:
+  Operating Systems (Undergrad)]] *Operating Systems* /NYU/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+  - NYU's operating system course. It's a fundamental course focusing
+  basic ideas of operating systems, including memory management,
+  process shceduling, file system, ect. It also includes some
+  recomended reading materials. What's more, there are a series of
+  hands-on lab materials, helping you easily understand OS.
+
+  - [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/labs.html][Assignments]]
+  - [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/syllabus.html][Lectures]]
+  - [[http://www.cs.nyu.edu/~mwalfish/classes/15sp/exams.html][Old
+    Exams]]
 
 --------------
 
@@ -3152,634 +3131,552 @@ for free.
     :CUSTOM_ID: misc
     :END:
 
--  [[http://am207.github.io/2016/index.html][AM 207]] *Monte Carlo
-   Methods and Stochastic Optimization* /Harvard University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
--  This course introduces important principles of Monte Carlo techniques
-   and demonstrates the power of these techniques with simple (but very
-   useful) applications. All of this in Python!
--  [[http://cm.dce.harvard.edu/2015/02/24104/publicationListing.shtml][Lecture
-   Videos]]
--  [[http://am207.github.io/2016/homework.html][Assignments]]
--  [[http://am207.github.io/2016/lectures.html][Lecture Notes]]
--  [[http://ocw.tufts.edu/Course/75][CS 75]] *Introduction to Game
-   Development* /Tufts University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  The course taught by [[http://mchow01.github.io][Ming Y. Chow]]
-      teaches game development initially in PyGame through Python,
-      before moving on to addressing all facets of game development.
-      Topics addressed include game physics, sprites, animation, game
-      development methodology, sound, testing, MMORPGs and online games,
-      and addressing mobile development in Android, HTML5, and iOS. Most
-      to all of the development is focused on PyGame for learning
-      principles
-   -  [[http://ocw.tufts.edu/Course/75/Learningunits][Text Lectures]]
-   -  [[http://ocw.tufts.edu/Course/75/Assignments][Assignments]]
-   -  [[http://ocw.tufts.edu/Course/75/Labs][Labs]]
-
--  [[https://github.com/mikeizbicki/ucr-cs100][CS 100]] *Open Source
-   Software Construction* /UC Riverside/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  This is a course on how to be a hacker. Your first four homework
-      assignments walk you through the process of building your own unix
-      shell. You'll be developing it as an open source project, and you
-      will collaborate with each other at various points.
-   -  [[https://github.com/mikeizbicki/ucr-cs100][Github Page]]
-   -  [[https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/assignments][Assignments]]
-
--  [[http://web.stanford.edu/class/archive/cs/cs108/cs108.1092/][CS
-   108]] *Object Oriented System Design* /Stanford/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  Software design and construction in the context of large OOP
-      libraries. Taught in Java. Topics: OOP design, design patterns,
-      testing, graphical user interface (GUI) OOP libraries, software
-      engineering strategies, approaches to programming in teams.
-
--  [[https://inst.eecs.berkeley.edu/~cs168/fa15/][CS 168]] *Computer
-   Networks* /UC
-   Berkeley/@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  This is an undergraduate level course covering the fundamental
-      concepts of networking as embodied in the Internet. The course
-      will cover a wide range of topics; see the lecture schedule for
-      more details. While the class has a textbook, we will not follow
-      its order of presentation but will instead use the text as a
-      reference when covering each individual topic. The course will
-      also have several projects that involve programming (in Python).
-   -  You should know programming, data structures, and software
-      engineering. In terms of mathematics, your algebra should be very
-      solid, you need to know basic probability, and you should be
-      comfortable with thinking abstractly. The TAs will spend very
-      little time reviewing material that is not specific to networking.
-      We assume that you either know the material covered in those
-      courses, or are willing to learn the material as necessary. We
-      won't cover any of this material in lecture.
-
--  [[http://web.stanford.edu/class/cs193a/lectures.shtml][CS 193a]]
-   *Android App Development, Spring 2016* /Stanford University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  Course Description: This course provides an introduction to
-      developing applications for the Android mobile platform.
-   -  Prerequisite: CS 106B or equivalent. Java experience highly
-      recommended. OOP highly recommmended.
-   -  Devices: Access to an Android phone and/or tablet recommended but
-      not required.
-   -  Videos: Videos list can be found
-      [[http://web.stanford.edu/class/cs193a/videos.shtml][here]]
-   -  Other materials: Some codes, handsout, homework ..... and lecture
-      notes are not downloadable on the site due to login requirement.
-      Please head to my Github repo
-      [[https://github.com/VoLuong/Materials-CS193A-Android-App-Development-Standford][here]]
-      to download them.
-
--  [[https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550][CS
-   193p]] *Developing Applications for iOS* /Stanford University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  Updated for iOS 7. Tools and APIs required to build applications
-      for the iPhone and iPad platform using the iOS SDK. User interface
-      designs for mobile devices and unique user interactions using
-      multi-touch technologies. Object-oriented design using
-      model-view-controller paradigm, memory management, Objective-C
-      programming language. Other topics include: object-oriented
-      database API, animation, multi-threading and performance
-      considerations.
-   -  Prerequisites: C language and object-oriented programming
-      experience
-   -  Recommended:
-      [[https://itunes.apple.com/us/course/programming-abstractions/id495054099][Programming
-      Abstractions]]
-   -  [[https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099][Updated
-      courses for iOS8 - Swift]]
-   -  [[https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961][Updated
-      courses for iOS9 - Swift]]
-
--  [[http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743][CS
-   223A]] *Introduction to Robotics* /Stanford University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  The purpose of this course is to introduce you to basics of
-      modeling, design, planning, and control of robot systems. In
-      essence, the material treated in this course is a brief survey of
-      relevant results from geometry, kinematics, statics, dynamics, and
-      control.
-   -  [[http://see.stanford.edu/see/lecturelist.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743][Lectures]]
-   -  [[http://see.stanford.edu/see/materials/aiircs223a/assignments.aspx][Assignments]]
-
--  [[http://www.cs.berkeley.edu/~brewer/cs262/][CS 262a]] *Advanced
-   Topics in Computer Systems* /UC Berkeley/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  CS262a is the first semester of a year-long sequence on computer
-      systems research, including operating systems, database systems,
-      and Internet infrastructure systems. The goal of the course is to
-      cover a broad array of research topics in computer systems, and to
-      engage you in top-flight systems research. The first semester is
-      devoted to basic thematic issues and underlying techniques in
-      computer systems, while the second semester goes deeper into
-      topics related to scalable, parallel and distributed systems. The
-      class is based on a discussion of important research papers and a
-      research project.\\
-   -  *Parts*: Some Classics, Persistent Storage, Concurrency,
-      Higher-Level Models, Virtual Machines, Cloud Computing, Parallel
-      and Distributed Computing, Potpourri.\\
-   -  Prerequisites: The historical prerequisite was to pass an entrance
-      exam in class, which covered undergraduate operating systems
-      material (similar to [[https://cs162.eecs.berkeley.edu/][UCB's
-      CS162]]). There is no longer an exam. However, if you have not
-      already taken a decent undergrad OS class, you should talk with me
-      before taking this class. The exam had the benefit of "paging in"
-      the undergrad material, which may have been its primary value
-      (since the pass rate was high).
-   -  [[http://www.cs.berkeley.edu/~brewer/cs262/][Readings & Lectures]]
-
--  [[http://inst.eecs.berkeley.edu/~cs294-101/sp15/][CS 294]]
-   *Cutting-edge Web Technologies* /Berkeley/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  Want to learn what makes future web technologies tick? Join us for
-      the class where we will dive into the internals of many of the
-      newest web technologies, analyze and dissect them. We will conduct
-      survey lectures to provide the background and overview of the area
-      as well as invite guest lecturers from various leading projects to
-      present their technologies.
-
--  [[http://video.bilkent.edu.tr/course_videos.php?courseid=10][CS 411]]
-   *Software Architecture Design* /Bilkent University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-
-   -  This course teaches the basic concepts, methods and techniques for
-      designing software architectures. The topics include: rationale
-      for software architecture design, modeling software architecture
-      design, architectural styles/patterns, architectural requirements
-      analysis, comparison and evaluation of architecture design
-      methods, synthesis-based software architecture design, software
-      product-line architectures, domain modeling, domain engineering
-      and application engineering, software architecture implementation,
-      evaluating software architecture designs.
-
--  [[http://www.cs.cornell.edu/courses/CS3152/2014sp/][CS 3152]]
-   *Introduction to Computer Game Development* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  A project-based course in which programmers and designers
-      collaborate to make a computer game. This course investigates the
-      theory and practice of developing computer games from a blend of
-      technical, aesthetic, and cultural perspectives. Technical aspects
-      of game architecture include software engineering, artificial
-      intelligence, game physics, computer graphics, and networking.
-      Aesthetic and cultural include art and modeling, sound and music,
-      game balance, and player experience.
-   -  [[http://www.cs.cornell.edu/courses/CS3152/2014sp/about/faq.php][Syllabus]]
-   -  [[http://www.cs.cornell.edu/courses/CS3152/2014sp/lectures/index.php][Lectures]]
-   -  [[http://www.cs.cornell.edu/courses/CS3152/2014sp/assignments/index.php][Assignments]]
-
--  [[http://www.cs.cornell.edu/courses/CS4152/2014sp/][CS 4152]]
-   *Advanced Topics in Computer Game Development* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  Project-based follow-up course to CS/INFO 3152. Students work in a
-      multidisciplinary team to develop a game that incorporates
-      innovative game technology. Advanced topics include 3D game
-      development, mobile platforms, multiplayer gaming, and
-      nontraditional input devices. There is a special emphasis on
-      developing games that can be submitted to festivals and
-      competitions, or that can be commercialized.
-   -  [[http://www.cs.cornell.edu/courses/CS4152/2014sp/about/faq.php][Syllabus]]
-   -  [[http://www.cs.cornell.edu/courses/CS4152/2014sp/sessions/index.php][Lectures]]
-   -  [[http://www.cs.cornell.edu/courses/CS4152/2014sp/assignments/index.php][Assignments]]
-
--  [[http://www.cs.cornell.edu/courses/CS4154/2014fa/][CS 4154]]
-   *Analytics-driven Game Design* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  A project-based course in which programmers and designers
-      collaborate to design, implement, and release a video game online
-      through popular game portals. In this course, students will use
-      the internet to gather data anonymously from players. Students
-      will analyze this data in order to improve their game over
-      multiple iterations. Technical aspects of this course include
-      programming, database architecture, and statistical analysis.
-   -  [[http://www.cs.cornell.edu/courses/CS4154/2014fa/about/faq.php][Syllabus]]
-   -  [[http://www.cs.cornell.edu/courses/CS4154/2014fa/lectures/index.php][Lectures]]
-   -  [[http://www.cs.cornell.edu/courses/CS4154/2014fa/assignments/index.php][Assignments]]
-
--  [[https://courses.cit.cornell.edu/physics4481-7681_2014sp/][CS 4812]]
-   *Quantum Information Processing* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  Hardware that exploits quantum phenomena can dramatically alter
-      the nature of computation. Though constructing a working quantum
-      computer is a formidable technological challenge, there has been
-      much recent experimental progress. In addition, the theory of
-      quantum computation is of interest in itself, offering strikingly
-      different perspectives on the nature of computation and
-      information, as well as providing novel insights into the
-      conceptual puzzles posed by the quantum theory. The course is
-      intended both for physicists, unfamiliar with computational
-      complexity theory or cryptography, and also for computer
-      scientists and mathematicians, unfamiliar with quantum mechanics.
-      The prerequisites are familiarity (and comfort) with finite
-      dimensional vector spaces over the complex numbers, some standard
-      group theory, and ability to count in binary.
-   -  [[http://www.cs.cornell.edu/~ginsparg/physics/P4481-P7681-CS4812/Fa12.html][Syllabus]]
-   -  [[https://courses.cit.cornell.edu/physics4481-7681_2014sp/][Lectures]]
-
--  [[http://www.cs.cornell.edu/courses/CS4860/2012fa/][CS 4860]]
-   *Applied Logic* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  In addition to basic first-order logic, when taught by Computer
-      Science this course involves elements of Formal Methods and
-      Automated Reasoning. Formal Methods is concerned with proving
-      properties of algorithms, specifying programming tasks and
-      synthesizing programs from proofs. We will use formal methods
-      tools such as interactive proof assistants (see
-      [[http://www.nuprl.org][www.nuprl.org]]). We will also spend two
-      weeks on constructive type theory, the language used by the Coq
-      and Nuprl proof assistants.
-   -  [[http://www.cs.cornell.edu/courses/CS4860/2012fa/schedule.php][Syllabus]]
-   -  [[http://www.cs.cornell.edu/courses/CS4860/2012fa/schedule.php][Lectures]]
-   -  [[http://www.cs.cornell.edu/courses/CS4860/2012fa/schedule.php][Assignments]]
-
--  [[http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html][CS
-   5150]] *Software Engineering* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  Introduction to the practical problems of specifying, designing,
-      building, testing, and delivering reliable software systems
-   -  [[http://www.cs.cornell.edu/courses/CS5150/2014fa/materials.html][Lectures]]
-   -  [[http://www.cs.cornell.edu/courses/CS5150/2014fa/assignments.html][Assignments]]
-
--  [[http://www.cs.cornell.edu/~bindel/class/cs5220-f11/][CS 5220]]
-   *Applications of Parallel Computers* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  How do we solve the large-scale problems of science quickly on
-      modern computers? How do we measure the performance of new or
-      existing simulation codes, and what things can we do to make them
-      run faster? How can we best take advantage of features like
-      multicore processors, vector units, and graphics co-processors?
-      These are the types of questions we will address in CS 5220,
-      Applications of Parallel Computers. Topics include:
-
-      -  Single-processor architecture, caches, and serial performance
-         tuning
-      -  Basics of parallel machine organization
-      -  Distributed memory programming with MPI
-      -  Shared memory programming with OpenMP
-      -  Parallel patterns: data partitioning, synchronization, and load
-         balancing
-      -  Examples of parallel numerical algorithms
-      -  Applications from science and engineering
-
-   -  [[http://www.cs.cornell.edu/~bindel/class/cs5220-f11/lectures.html][Lectures]]
-   -  [[http://www.cs.cornell.edu/~bindel/class/cs5220-f11/assignments.html][Assignments]]
-
--  [[https://sites.google.com/site/cs5540sp2013/][CS 5540]]
-   *Computational Techniques for Analyzing Clinical Data* /Cornell
-   University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  CS5540 is a masters-level course that covers a wide range of
-      clinical problems and their associated computational challenges.
-      The practice of medicine is filled with digitally accessible
-      information about patients, ranging from EKG readings to MRI
-      images to electronic health records. This poses a huge opportunity
-      for computer tools that make sense out of this data. Computation
-      tools can be used to answer seemingly straightforward questions
-      about a single patient's test results (“Does this patient have a
-      normal heart rhythm?”), or to address vital questions about large
-      populations (“Is there any clinical condition that affects the
-      risks of Alzheimer”). In CS5540 we will look at many of the most
-      important sources of clinical data and discuss the basic
-      computational techniques used for their analysis, ranging in
-      sophistication from current clinical practice to state-of-the-art
-      research projects.
-   -  [[https://sites.google.com/site/cs5540sp2013/home/course-description][Syllabus]]
-   -  [[https://sites.google.com/site/cs5540sp2013/lectures][Lectures]]
-   -  [[https://sites.google.com/site/cs5540sp2013/assignments][Assignments]]
-
--  [[http://courses2.cit.cornell.edu/cs5724/][CS 5724]] *Evolutionary
-   Computation* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  This course will cover advanced topics in evolutionary algorithms
-      and their application to open-ended computational design. The
-      field of evolutionary computation tries to address large-scale
-      optimization and planning problems through stochastic
-      population-based methods. It draws inspiration from evolutionary
-      processes in nature and in engineering, and also serves as
-      abstract models for these phenomena. Evolutionary processes are
-      generally weak methods that require little information about the
-      problem domain and hence can be applied across a wide variety of
-      applications. They are especially useful for open-ended problem
-      domains for which little formal knowledge exists and the number of
-      parameters is undefined, such as for the general engineering
-      design process. This course will provide insight to a variety of
-      evolutionary computation paradigms, such as genetic algorithms,
-      genetic programming, and evolutionary strategies, as well as
-      governing dynamics of co-evolution, arms races and mediocre stable
-      states. New methods involving symbiosis models and pattern
-      recognition will also be presented. The material will be
-      intertwined with discussions of representations and results for
-      design problems in a variety of problem domains including
-      software, electronics, and mechanics.
-   -  [[http://courses2.cit.cornell.edu/cs5724/][Syllabus]]
-   -  [[http://courses2.cit.cornell.edu/cs5724/schedule.htm][Lectures]]
-   -  [[http://courses2.cit.cornell.edu/cs5724/][Assignments]]
-
--  [[http://www.cs.cornell.edu/courses/CS6452/2012sp/index.php][CS
-   6452]] *Evolutionary Computation* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  CS6452 focuses on datacenter networks and services. The emerging
-      demand for web services and cloud computing have created need for
-      large scale data centers. The hardware and software infrastructure
-      for datacenters critically determines the functionality,
-      performance, cost and failure tolerance of applications running on
-      that datacenter. This course will examine design alternatives for
-      both the hardware (networking) infrastructure, and the software
-      infrastructure for datacenters.
-   -  [[http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php][Syllabus]]
-   -  [[http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php][Lectures]]
-
--  [[http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm][CS
-   6630]] *Realistic Image Synthesis* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  CS6630 is an introduction to physics-based rendering at the
-      graduate level. Starting from the fundamentals of light transport
-      we will look at formulations of the Rendering Equation, and a
-      series of Monte Carlo methods, from sequential sampling to
-      multiple importance sampling to Markov Chains, for solving the
-      equation to make pictures. We'll look at light reflection from
-      surfaces and scattering in volumes, illumination from luminaries
-      and environments, and diffusion models for translucent materials.
-      We will build working implementations of many of the algorithms we
-      study, and learn how to make sure they are actually working
-      correctly. It's fun to watch integrals and probability
-      distributions transform into photographs of a slightly too perfect
-      synthetic world.
-   -  [[http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm][Syllabus]]
-   -  [[http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm][Lectures]]
-   -  [[http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm][Assignments]]
-   -  [[http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm][Readings]]
-
--  [[http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#][CS
-   6640]] *Computational Photography* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  A course on the emerging applications of computation in
-      photography. Likely topics include digital photography,
-      unconventional cameras and optics, light field cameras, image
-      processing for photography, techniques for combining multiple
-      images, advanced image editing algorithms, and projector-camera
-      systems.cornell.edu/courses/CS6630/2012sp/about.stm)
-   -  [[http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#schedule][Lectures]]
-   -  [[http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#hw][Assignments]]
-
--  [[http://www.cs.cornell.edu/courses/CS6650/2013fa/][CS 6650]]
-   *Computational Motion* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  Covers computational aspects of motion, broadly construed. Topics
-      include the computer representation, modeling, analysis, and
-      simulation of motion, and its relationship to various areas,
-      including computational geometry, mesh generation, physical
-      simulation, computer animation, robotics, biology, computer
-      vision, acoustics, and spatio-temporal databases. Students
-      implement several of the algorithms covered in the course and
-      complete a final project. This offering will also explore the
-      special role of motion processing in physically based sound
-      rendering.
-
--  [[http://www.cs.cornell.edu/courses/CS6840/2014sp/][CS 6840]]
-   *Algorithmic Game Theory* /Cornell University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  Algorithmic Game Theory combines algorithmic thinking with
-      game-theoretic, or, more generally, economic concepts. The course
-      will study a range of topics at this interface
-   -  [[http://www.cs.cornell.edu/courses/CS6840/2014sp/][Syllabus]]
-   -  [[http://www.cs.cornell.edu/courses/CS6840/2014sp/][Lectures]]
-   -  [[http://www.cs.cornell.edu/courses/CS6840/2014sp/][Assignments]]
-   -  [[http://www.cs.cornell.edu/courses/CS6840/2014sp/][Readings]]
-
--  [[http://courses.cs.washington.edu/courses/cse154/14au/][CSE 154]]
-   *Web Programming* /University of Washington/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  This course is an introduction to programming for the World Wide
-      Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.
-   -  [[http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml#today][Lectures]]
-   -  [[http://courses.cs.washington.edu/courses/cse154/14au/homework.shtml][Assignments]]
-
--  [[http://ucsb-bren.github.io/esm296-4f/][ESM 296-4F]] *GIS & Spatial
-   Analysis* /UC Santa Barbara/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  Taught by
-      [[http://www.bren.ucsb.edu/people/Faculty/james_frew.htm][James
-      Frew]], [[http://mgel.env.duke.edu/people/ben-best/][Ben Best]],
-      and
-      [[http://www.centerforoceansolutions.org/team/lisa-wedding][Lisa
-      Wedding]]
-   -  Focuses on specific computational languages (e.g., Python, R,
-      shell) and tools (e.g., GDAL/OGR, InVEST, MGET, ModelBuilder)
-      applied to the spatial analysis of environmental problems
-   -  [[http://ucsb-bren.github.io/esm296-4f/][GitHub]] (includes
-      lecture materials and labs)
-
--  [[http://philipmjohnson.github.io/ics314f13/][ICS 314]] *Software
-   Engineering* /University of Hawaii/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-
-   -  Taught by [[http://philipmjohnson.org/][Philip Johnson]]
-   -  Introduction to software engineering using the
-      [[http://philipmjohnson.org/essays/ase-initial-results.html]["Athletic
-      Software Engineering" pedagogy]]
-   -  [[http://philipmjohnson.github.io/ics314f13/readings/][Readings]]
-   -  [[http://philipmjohnson.github.io/ics314f13/experiences/][Experiences]]
-   -  [[http://philipmjohnson.github.io/ics314f13/assessments/][Assessments]]
-
--  [[http://hfoss-fossrit.rhcloud.com][IGME 582]] *Humanitarian Free &
-   Open Source Software Development* /Rochester Institute of Technology/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  This course provides students with exposure to the design,
-      creation and production of Open Source Software projects. Students
-      will be introduced to the historic intersections of technology and
-      intellectual property rights and will become familiar with Open
-      Source development processes, tools and practices.
-
--  [[http://www.informatics.indiana.edu/rocha/i-bic/][I485 / H400]]
-   *Biologically Inspired Computation* /Indiana University/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  Course taught by
-      [[http://www.informatics.indiana.edu/rocha/lr_form.html][Luis
-      Rocha]] about the multi-disciplinary field algorithms inspired by
-      naturally occurring phenomenon. This course provides introduces
-      the following areas: L-systems, Cellular Automata, Emergence,
-      Genetic Algorithms, Swarm Intelligence and Artificial Immune
-      Systems. It's aim is to cover the fundamentals and enable readers
-      to build up a proficiency in applying various algorithms to
-      real-world problems.
-   -  [[http://www.informatics.indiana.edu/rocha/i-bic/#materials][Lectures]]
-   -  [[http://www.informatics.indiana.edu/rocha/i-bic/#labs][Assignments]]
-
--  [[http://www.schneems.com/ut-rails/][Open Sourced Elective: Database
-   and Rails]] *Intro to Ruby on Rails* /University of Texas/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  An introductory course in Ruby on Rails open sourced by University
-      of Texas' CS Adjunct Professor, Richard Schneeman.
-   -  [[http://www.schneems.com/ut-rails/][Lectures]]
-   -  [[http://www.schneems.com/ut-rails/][Assignments]]
-   -  [[https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F][Videos]]
-
--  [[http://inst.eecs.berkeley.edu/~cs294-101/sp15/][CS294]]
-   *Cutting-edge Web Technologies* /Berkeley/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  Want to learn what makes future web technologies tick? Join us for
-      the class where we will dive into the internals of many of the
-      newest web technologies, analyze and dissect them. We will conduct
-      survey lectures to provide the background and overview of the area
-      as well as invite guest lecturers from various leading projects to
-      present their technologies.
-
--  [[http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233][SCICOMP]]
-   *An Introduction to Efficient Scientific Computation* /Universität
-   Bremen/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-
-   -  This is a graduate course in scientific computing created and
-      taught by [[http://colorfulengineering.org/][Oliver Serang]] in
-      2014, which covers topics in computer science and statistics with
-      applications from biology. The course is designed top-down,
-      starting with a problem and then deriving a variety of solutions
-      from scratch.
-   -  Topics include memoization, recurrence closed forms, string
-      matching (sorting, hash tables, radix tries, and suffix tries),
-      dynamic programming (e.g. Smith-Waterman and Needleman-Wunsch),
-      Bayesian statistics (e.g. the envelope paradox), graphical models
-      (HMMs, Viterbi, junction tree, belief propagation), FFT, and the
-      probabilistic convolution tree.
-   -  [[https://www.youtube.com/user/fillwithlight/videos][Lecture
-      videos on Youtube]] and for direct
-      [[http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233][download]]
-
--  [[http://www.ini740.com/S17/index.html][14-740]] *Fundamentals of
-   Computer Networks* /CMU/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  This is an introductory course on Networking for graduate
-      students. It follows a top-down approach to teaching Computer
-      Networks, so it starts with the Application layer which most of
-      the students are familiar with and as the course unravels we learn
-      more about transport, network and link layers of the protocol
-      stack.
-   -  As far as prerequisites are concerned - basic computer,
-      programming and probability theory background is required.
-   -  The course site contains links to the lecture videos, reading
-      material and assignments.
-
--  [[https://inst.eecs.berkeley.edu/~cs168/fa15/][CS 168]] *Computer
-   Networks* /UC
-   Berkeley/@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  This is an undergraduate level course covering the fundamental
-      concepts of networking as embodied in the Internet. The course
-      will cover a wide range of topics; see the lecture schedule for
-      more details. While the class has a textbook, we will not follow
-      its order of presentation but will instead use the text as a
-      reference when covering each individual topic. The course will
-      also have several projects that involve programming (in Python).
-   -  You should know programming, data structures, and software
-      engineering. In terms of mathematics, your algebra should be very
-      solid, you need to know basic probability, and you should be
-      comfortable with thinking abstractly. The TAs will spend very
-      little time reviewing material that is not specific to networking.
-      We assume that you either know the material covered in those
-      courses, or are willing to learn the material as necessary. We
-      won't cover any of this material in lecture.
-
--  [[http://www.cs.berkeley.edu/~brewer/cs262/][CS 262a]] *Advanced
-   Topics in Computer Systems* /UC Berkeley/
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
-   @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
-
-   -  CS262a is the first semester of a year-long sequence on computer
-      systems research, including operating systems, database systems,
-      and Internet infrastructure systems. The goal of the course is to
-      cover a broad array of research topics in computer systems, and to
-      engage you in top-flight systems research. The first semester is
-      devoted to basic thematic issues and underlying techniques in
-      computer systems, while the second semester goes deeper into
-      topics related to scalable, parallel and distributed systems. The
-      class is based on a discussion of important research papers and a
-      research project.\\
-   -  *Parts*: Some Classics, Persistent Storage, Concurrency,
-      Higher-Level Models, Virtual Machines, Cloud Computing, Parallel
-      and Distributed Computing, Potpourri.\\
-   -  Prerequisites: The historical prerequisite was to pass an entrance
-      exam in class, which covered undergraduate operating systems
-      material (similar to [[https://cs162.eecs.berkeley.edu/][UCB's
-      CS162]]). There is no longer an exam. However, if you have not
-      already taken a decent undergrad OS class, you should talk with me
-      before taking this class. The exam had the benefit of "paging in"
-      the undergrad material, which may have been its primary value
-      (since the pass rate was high).
-   -  [[http://www.cs.berkeley.edu/~brewer/cs262/][Readings & Lectures]]
-
-
+- [[http://am207.github.io/2016/index.html][AM 207]] *Monte Carlo
+  Methods and Stochastic Optimization* /Harvard University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+- This course introduces important principles of Monte Carlo techniques
+  and demonstrates the power of these techniques with simple (but very
+  useful) applications. All of this in Python!
+- [[http://cm.dce.harvard.edu/2015/02/24104/publicationListing.shtml][Lecture
+  Videos]]
+- [[http://am207.github.io/2016/homework.html][Assignments]]
+- [[http://am207.github.io/2016/lectures.html][Lecture Notes]]
+- [[http://ocw.tufts.edu/Course/75][CS 75]] *Introduction to Game
+  Development* /Tufts University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - The course taught by [[http://mchow01.github.io][Ming Y. Chow]]
+    teaches game development initially in PyGame through Python,
+    before moving on to addressing all facets of game development.
+    Topics addressed include game physics, sprites, animation, game
+    development methodology, sound, testing, MMORPGs and online games,
+    and addressing mobile development in Android, HTML5, and iOS. Most
+    to all of the development is focused on PyGame for learning
+    principles
+  - [[http://ocw.tufts.edu/Course/75/Learningunits][Text Lectures]]
+  - [[http://ocw.tufts.edu/Course/75/Assignments][Assignments]]
+  - [[http://ocw.tufts.edu/Course/75/Labs][Labs]]
+
+- [[https://github.com/mikeizbicki/ucr-cs100][CS 100]] *Open Source
+  Software Construction* /UC Riverside/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - This is a course on how to be a hacker. Your first four homework
+    assignments walk you through the process of building your own unix
+    shell. You'll be developing it as an open source project, and you
+    will collaborate with each other at various points.
+  - [[https://github.com/mikeizbicki/ucr-cs100][Github Page]]
+  - [[https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/assignments][Assignments]]
+
+- [[http://web.stanford.edu/class/archive/cs/cs108/cs108.1092/][CS
+  108]] *Object Oriented System Design* /Stanford/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - Software design and construction in the context of large OOP
+    libraries. Taught in Java. Topics: OOP design, design patterns,
+    testing, graphical user interface (GUI) OOP libraries, software
+    engineering strategies, approaches to programming in teams.
+
+- [[https://inst.eecs.berkeley.edu/~cs168/fa15/][CS 168]] *Computer
+  Networks* /UC
+  Berkeley/@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - This is an undergraduate level course covering the fundamental
+    concepts of networking as embodied in the Internet. The course
+    will cover a wide range of topics; see the lecture schedule for
+    more details. While the class has a textbook, we will not follow
+    its order of presentation but will instead use the text as a
+    reference when covering each individual topic. The course will
+    also have several projects that involve programming (in Python).
+  - You should know programming, data structures, and software
+    engineering. In terms of mathematics, your algebra should be very
+    solid, you need to know basic probability, and you should be
+    comfortable with thinking abstractly. The TAs will spend very
+    little time reviewing material that is not specific to networking.
+    We assume that you either know the material covered in those
+    courses, or are willing to learn the material as necessary. We
+    won't cover any of this material in lecture.
+
+- [[http://web.stanford.edu/class/cs193a/lectures.shtml][CS 193a]]
+  *Android App Development, Spring 2016* /Stanford University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - Course Description: This course provides an introduction to
+    developing applications for the Android mobile platform.
+  - Prerequisite: CS 106B or equivalent. Java experience highly
+    recommended. OOP highly recommmended.
+  - Devices: Access to an Android phone and/or tablet recommended but
+    not required.
+  - Videos: Videos list can be found
+    [[http://web.stanford.edu/class/cs193a/videos.shtml][here]]
+  - Other materials: Some codes, handsout, homework ..... and lecture
+    notes are not downloadable on the site due to login requirement.
+    Please head to my Github repo
+    [[https://github.com/VoLuong/Materials-CS193A-Android-App-Development-Standford][here]]
+    to download them.
+
+- [[https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550][CS
+  193p]] *Developing Applications for iOS* /Stanford University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - Updated for iOS 7. Tools and APIs required to build applications
+    for the iPhone and iPad platform using the iOS SDK. User interface
+    designs for mobile devices and unique user interactions using
+    multi-touch technologies. Object-oriented design using
+    model-view-controller paradigm, memory management, Objective-C
+    programming language. Other topics include: object-oriented
+    database API, animation, multi-threading and performance
+    considerations.
+  - Prerequisites: C language and object-oriented programming
+    experience
+  - Recommended:
+    [[https://itunes.apple.com/us/course/programming-abstractions/id495054099][Programming
+    Abstractions]]
+  - [[https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099][Updated
+    courses for iOS8 - Swift]]
+  - [[https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961][Updated
+    courses for iOS9 - Swift]]
+
+- [[http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743][CS 223A]] *Introduction to Robotics* /Stanford University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - The purpose of this course is to introduce you to basics of
+    modeling, design, planning, and control of robot systems. In
+    essence, the material treated in this course is a brief survey of
+    relevant results from geometry, kinematics, statics, dynamics, and
+    control.
+  - [[http://see.stanford.edu/see/lecturelist.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743][Lectures]]
+  - [[http://see.stanford.edu/see/materials/aiircs223a/assignments.aspx][Assignments]]
+
+- [[https://amplab.github.io/cs262a-fall2016/][CS 262a]] *Advanced Topics in Computer Systems* /UC Berkeley/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - CS262a is the first semester of a year-long sequence on computer
+    systems research, including operating systems, database systems,
+    and Internet infrastructure systems. The goal of the course is to
+    cover a broad array of research topics in computer systems, and to
+    engage you in top-flight systems research. The first semester is
+    devoted to basic thematic issues and underlying techniques in
+    computer systems, while the second semester goes deeper int o
+    topics related to scalable, parallel and distributed systems. The
+    class is based on a discussion of important research papers and a
+    research project.\\
+  - *Parts*: Some Classics, Persistent Storage, Concurrency,
+    Higher-Level Models, Virtual Machines, Cloud Computing, Parallel
+    and Distributed Computing, Potpourri.\\
+  - Prerequisites: The historical prerequisite was to pass an entrance
+    exam in class, which covered undergraduate operating systems
+    material (similar to [[https://cs162.eecs.berkeley.edu/][UCB's CS162]]). There is no longer an exam. However, if you have not
+    already taken a decent undergrad OS class, you should talk with me
+    before taking this class. The exam had the benefit of "paging in"
+    the undergrad material, which may have been its primary value
+    (since the pass rate was high).
+  - [[https://amplab.github.io/cs262a-fall2016/][Readings & Lectures]]
+  - [计划] 内容还是很吸引人的，学完cs162可以回来看看
+
+- [[http://inst.eecs.berkeley.edu/~cs294-101/sp15/][CS 294]] *Cutting-edge Web Technologies* /Berkeley/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - Want to learn what makes future web technologies tick? Join us for
+    the class where we will dive into the internals of many of the
+    newest web technologies, analyze and dissect them. We will conduct
+    survey lectures to provide the background and overview of the area
+    as well as invite guest lecturers from various leading projects to
+    present their technologies.
+
+- [[http://video.bilkent.edu.tr/course_videos.php?courseid=10][CS 411]]
+  *Software Architecture Design* /Bilkent University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+
+  - This course teaches the basic concepts, methods and techniques for
+    designing software architectures. The topics include: rationale
+    for software architecture design, modeling software architecture
+    design, architectural styles/patterns, architectural requirements
+    analysis, comparison and evaluation of architecture design
+    methods, synthesis-based software architecture design, software
+    product-line architectures, domain modeling, domain engineering
+    and application engineering, software architecture implementation,
+    evaluating software architecture designs.
+
+- [[http://www.cs.cornell.edu/courses/CS3152/2014sp/][CS 3152]]
+  *Introduction to Computer Game Development* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - A project-based course in which programmers and designers
+    collaborate to make a computer game. This course investigates the
+    theory and practice of developing computer games from a blend of
+    technical, aesthetic, and cultural perspectives. Technical aspects
+    of game architecture include software engineering, artificial
+    intelligence, game physics, computer graphics, and networking.
+    Aesthetic and cultural include art and modeling, sound and music,
+    game balance, and player experience.
+  - [[http://www.cs.cornell.edu/courses/CS3152/2014sp/about/faq.php][Syllabus]]
+  - [[http://www.cs.cornell.edu/courses/CS3152/2014sp/lectures/index.php][Lectures]]
+  - [[http://www.cs.cornell.edu/courses/CS3152/2014sp/assignments/index.php][Assignments]]
+
+- [[http://www.cs.cornell.edu/courses/CS4152/2014sp/][CS 4152]]
+  *Advanced Topics in Computer Game Development* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - Project-based follow-up course to CS/INFO 3152. Students work in a
+    multidisciplinary team to develop a game that incorporates
+    innovative game technology. Advanced topics include 3D game
+    development, mobile platforms, multiplayer gaming, and
+    nontraditional input devices. There is a special emphasis on
+    developing games that can be submitted to festivals and
+    competitions, or that can be commercialized.
+  - [[http://www.cs.cornell.edu/courses/CS4152/2014sp/about/faq.php][Syllabus]]
+  - [[http://www.cs.cornell.edu/courses/CS4152/2014sp/sessions/index.php][Lectures]]
+  - [[http://www.cs.cornell.edu/courses/CS4152/2014sp/assignments/index.php][Assignments]]
+
+- [[http://www.cs.cornell.edu/courses/CS4154/2014fa/][CS 4154]]
+  *Analytics-driven Game Design* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - A project-based course in which programmers and designers
+    collaborate to design, implement, and release a video game online
+    through popular game portals. In this course, students will use
+    the internet to gather data anonymously from players. Students
+    will analyze this data in order to improve their game over
+    multiple iterations. Technical aspects of this course include
+    programming, database architecture, and statistical analysis.
+  - [[http://www.cs.cornell.edu/courses/CS4154/2014fa/about/faq.php][Syllabus]]
+  - [[http://www.cs.cornell.edu/courses/CS4154/2014fa/lectures/index.php][Lectures]]
+  - [[http://www.cs.cornell.edu/courses/CS4154/2014fa/assignments/index.php][Assignments]]
+
+- [[https://courses.cit.cornell.edu/physics4481-7681_2014sp/][CS 4812]]
+  *Quantum Information Processing* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - Hardware that exploits quantum phenomena can dramatically alter
+    the nature of computation. Though constructing a working quantum
+    computer is a formidable technological challenge, there has been
+    much recent experimental progress. In addition, the theory of
+    quantum computation is of interest in itself, offering strikingly
+    different perspectives on the nature of computation and
+    information, as well as providing novel insights into the
+    conceptual puzzles posed by the quantum theory. The course is
+    intended both for physicists, unfamiliar with computational
+    complexity theory or cryptography, and also for computer
+    scientists and mathematicians, unfamiliar with quantum mechanics.
+    The prerequisites are familiarity (and comfort) with finite
+    dimensional vector spaces over the complex numbers, some standard
+    group theory, and ability to count in binary.
+  - [[http://www.cs.cornell.edu/~ginsparg/physics/P4481-P7681-CS4812/Fa12.html][Syllabus]]
+  - [[https://courses.cit.cornell.edu/physics4481-7681_2014sp/][Lectures]]
+
+- [[http://www.cs.cornell.edu/courses/CS4860/2012fa/][CS 4860]]
+  *Applied Logic* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - In addition to basic first-order logic, when taught by Computer
+    Science this course involves elements of Formal Methods and
+    Automated Reasoning. Formal Methods is concerned with proving
+    properties of algorithms, specifying programming tasks and
+    synthesizing programs from proofs. We will use formal methods
+    tools such as interactive proof assistants (see
+    [[http://www.nuprl.org][www.nuprl.org]]). We will also spend two
+    weeks on constructive type theory, the language used by the Coq
+    and Nuprl proof assistants.
+  - [[http://www.cs.cornell.edu/courses/CS4860/2012fa/schedule.php][Syllabus]]
+  - [[http://www.cs.cornell.edu/courses/CS4860/2012fa/schedule.php][Lectures]]
+  - [[http://www.cs.cornell.edu/courses/CS4860/2012fa/schedule.php][Assignments]]
+
+- [[http://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html][CS
+  5150]] *Software Engineering* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - Introduction to the practical problems of specifying, designing,
+    building, testing, and delivering reliable software systems
+  - [[http://www.cs.cornell.edu/courses/CS5150/2014fa/materials.html][Lectures]]
+  - [[http://www.cs.cornell.edu/courses/CS5150/2014fa/assignments.html][Assignments]]
+
+- [[http://www.cs.cornell.edu/~bindel/class/cs5220-f11/][CS 5220]]
+  *Applications of Parallel Computers* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - How do we solve the large-scale problems of science quickly on
+    modern computers? How do we measure the performance of new or
+    existing simulation codes, and what things can we do to make them
+    run faster? How can we best take advantage of features like
+    multicore processors, vector units, and graphics co-processors?
+    These are the types of questions we will address in CS 5220,
+    Applications of Parallel Computers. Topics include:
+
+    - Single-processor architecture, caches, and serial performance
+      tuning
+    - Basics of parallel machine organization
+    - Distributed memory programming with MPI
+    - Shared memory programming with OpenMP
+    - Parallel patterns: data partitioning, synchronization, and load
+      balancing
+    - Examples of parallel numerical algorithms
+    - Applications from science and engineering
+
+  - [[http://www.cs.cornell.edu/~bindel/class/cs5220-f11/lectures.html][Lectures]]
+  - [[http://www.cs.cornell.edu/~bindel/class/cs5220-f11/assignments.html][Assignments]]
+
+- [[https://sites.google.com/site/cs5540sp2013/][CS 5540]]
+  *Computational Techniques for Analyzing Clinical Data* /Cornell
+  University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - CS5540 is a masters-level course that covers a wide range of
+    clinical problems and their associated computational challenges.
+    The practice of medicine is filled with digitally accessible
+    information about patients, ranging from EKG readings to MRI
+    images to electronic health records. This poses a huge opportunity
+    for computer tools that make sense out of this data. Computation
+    tools can be used to answer seemingly straightforward questions
+    about a single patient's test results (“Does this patient have a
+    normal heart rhythm?”), or to address vital questions about large
+    populations (“Is there any clinical condition that affects the
+    risks of Alzheimer”). In CS5540 we will look at many of the most
+    important sources of clinical data and discuss the basic
+    computational techniques used for their analysis, ranging in
+    sophistication from current clinical practice to state-of-the-art
+    research projects.
+  - [[https://sites.google.com/site/cs5540sp2013/home/course-description][Syllabus]]
+  - [[https://sites.google.com/site/cs5540sp2013/lectures][Lectures]]
+  - [[https://sites.google.com/site/cs5540sp2013/assignments][Assignments]]
+
+- [[http://courses2.cit.cornell.edu/cs5724/][CS 5724]] *Evolutionary
+  Computation* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - This course will cover advanced topics in evolutionary algorithms
+    and their application to open-ended computational design. The
+    field of evolutionary computation tries to address large-scale
+    optimization and planning problems through stochastic
+    population-based methods. It draws inspiration from evolutionary
+    processes in nature and in engineering, and also serves as
+    abstract models for these phenomena. Evolutionary processes are
+    generally weak methods that require little information about the
+    problem domain and hence can be applied across a wide variety of
+    applications. They are especially useful for open-ended problem
+    domains for which little formal knowledge exists and the number of
+    parameters is undefined, such as for the general engineering
+    design process. This course will provide insight to a variety of
+    evolutionary computation paradigms, such as genetic algorithms,
+    genetic programming, and evolutionary strategies, as well as
+    governing dynamics of co-evolution, arms races and mediocre stable
+    states. New methods involving symbiosis models and pattern
+    recognition will also be presented. The material will be
+    intertwined with discussions of representations and results for
+    design problems in a variety of problem domains including
+    software, electronics, and mechanics.
+  - [[http://courses2.cit.cornell.edu/cs5724/][Syllabus]]
+  - [[http://courses2.cit.cornell.edu/cs5724/schedule.htm][Lectures]]
+  - [[http://courses2.cit.cornell.edu/cs5724/][Assignments]]
+
+- [[http://www.cs.cornell.edu/courses/CS6452/2012sp/index.php][CS
+  6452]] *Evolutionary Computation* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - CS6452 focuses on datacenter networks and services. The emerging
+    demand for web services and cloud computing have created need for
+    large scale data centers. The hardware and software infrastructure
+    for datacenters critically determines the functionality,
+    performance, cost and failure tolerance of applications running on
+    that datacenter. This course will examine design alternatives for
+    both the hardware (networking) infrastructure, and the software
+    infrastructure for datacenters.
+  - [[http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php][Syllabus]]
+  - [[http://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php][Lectures]]
+
+- [[http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm][CS
+  6630]] *Realistic Image Synthesis* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - CS6630 is an introduction to physics-based rendering at the
+    graduate level. Starting from the fundamentals of light transport
+    we will look at formulations of the Rendering Equation, and a
+    series of Monte Carlo methods, from sequential sampling to
+    multiple importance sampling to Markov Chains, for solving the
+    equation to make pictures. We'll look at light reflection from
+    surfaces and scattering in volumes, illumination from luminaries
+    and environments, and diffusion models for translucent materials.
+    We will build working implementations of many of the algorithms we
+    study, and learn how to make sure they are actually working
+    correctly. It's fun to watch integrals and probability
+    distributions transform into photographs of a slightly too perfect
+    synthetic world.
+  - [[http://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm][Syllabus]]
+  - [[http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm][Lectures]]
+  - [[http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm][Assignments]]
+  - [[http://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm][Readings]]
+
+- [[http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#][CS 6640]] *Computational Photography* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - A course on the emerging applications of computation in
+    photography. Likely topics include digital photography,
+    unconventional cameras and optics, light field cameras, image
+    processing for photography, techniques for combining multiple
+    images, advanced image editing algorithms, and projector-camera
+    systems.cornell.edu/courses/CS6630/2012sp/about.stm)
+  - [[http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#schedule][Lectures]]
+  - [[http://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#hw][Assignments]]
+
+- [[http://www.cs.cornell.edu/courses/CS6650/2013fa/][CS 6650]] *Computational Motion* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - Covers computational aspects of motion, broadly construed. Topics
+    include the computer representation, modeling, analysis, and
+    simulation of motion, and its relationship to various areas,
+    including computational geometry, mesh generation, physical
+    simulation, computer animation, robotics, biology, computer
+    vision, acoustics, and spatio-temporal databases. Students
+    implement several of the algorithms covered in the course and
+    complete a final project. This offering will also explore the
+    special role of motion processing in physically based sound
+    rendering.
+
+- [[http://www.cs.cornell.edu/courses/CS6840/2014sp/][CS 6840]] *Algorithmic Game Theory* /Cornell University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/>@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+
+  - Algorithmic Game Theory combines algorithmic thinking with
+    game-theoretic, or, more generally, economic concepts. The course
+    will study a range of topics at this interface
+  - [[http://www.cs.cornell.edu/courses/CS6840/2014sp/][Syllabus]]
+  - [[http://www.cs.cornell.edu/courses/CS6840/2014sp/][Lectures]]
+  - [[http://www.cs.cornell.edu/courses/CS6840/2014sp/][Assignments]]
+  - [[http://www.cs.cornell.edu/courses/CS6840/2014sp/][Readings]]
+
+- [[http://courses.cs.washington.edu/courses/cse154/14au/][CSE 154]] *Web Programming* /University of Washington/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - This course is an introduction to programming for the World Wide
+    Web. Covers use of HTML, CSS, PHP, JavaScript, AJAX, and SQL.
+  - [[http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml#today][Lectures]]
+  - [[http://courses.cs.washington.edu/courses/cse154/14au/homework.shtml][Assignments]]
+
+- [[http://hfoss-fossrit.rhcloud.com][IGME 582]] *Humanitarian Free & Open Source Software Development* /Rochester Institute of Technology/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - This course provides students with exposure to the design,
+    creation and production of Open Source Software projects. Students
+    will be introduced to the historic intersections of technology and
+    intellectual property rights and will become familiar with Open
+    Source development processes, tools and practices.
+
+- [[http://www.informatics.indiana.edu/rocha/i-bic/][I485 / H400]] *Biologically Inspired Computation* /Indiana University/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - Course taught by [[http://www.informatics.indiana.edu/rocha/lr_form.html][Luis Rocha]] about the multi-disciplinary field algorithms inspired by
+    naturally occurring phenomenon. This course provides introduces
+    the following areas: L-systems, Cellular Automata, Emergence,
+    Genetic Algorithms, Swarm Intelligence and Artificial Immune
+    Systems. It's aim is to cover the fundamentals and enable readers
+    to build up a proficiency in applying various algorithms to
+    real-world problems.
+  - [[http://www.informatics.indiana.edu/rocha/i-bic/#materials][Lectures]]
+  - [[http://www.informatics.indiana.edu/rocha/i-bic/#labs][Assignments]]
+
+- [[http://www.schneems.com/ut-rails/][Open Sourced Elective: Database and Rails]] *Intro to Ruby on Rails* /University of Texas/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - An introductory course in Ruby on Rails open sourced by University
+    of Texas' CS Adjunct Professor, Richard Schneeman.
+  - [[http://www.schneems.com/ut-rails/][Lectures]]
+  - [[http://www.schneems.com/ut-rails/][Assignments]]
+  - [[https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F][Videos]]
+
+- [[http://inst.eecs.berkeley.edu/~cs294-101/sp15/][CS294]] *Big Data System research: Trends and Challenges* /Berkeley/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - Fueled in part by the continuous drop in storage prices, today virtually every company collects every piece of data (e.g., user and machine logs) it can. Companies do so with the hope that they can use this data to improve their products or services. This hope is driven by the desire to emulate the successes that have already been enabled by big data. Indeed, over the past decade big data has enabled directly or indirectly new businesses or has lead to disrupting existing industries. Examples in the first category are Google, Facebook and Twitter, while examples in the second category are Amazon, disrupting the retail industry, Uber, disrupting the taxi industry, and AIrBnb disrupting the rental industry.
+  - In this course, we describe the critical technology trends that are enabling big data processing, the architecture and the design of existing systems, and the open challenges as well as the research opportunities to address these challenges. The format of this course will be a mix of lectures, seminar-style discussions, and student presentations. Students will be responsible for paper readings, and completing a hands-on project. Readings will be selected from recent conference proceedings and journals.
+  - [计划] 这是好东西，一定要看
+
+
+- [[http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233][SCICOMP]] *An Introduction to Efficient Scientific Computation* /Universität
+  Bremen/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+
+  - This is a graduate course in scientific computing created and
+    taught by [[http://colorfulengineering.org/][Oliver Serang]] in
+    2014, which covers topics in computer science and statistics with
+    applications from biology. The course is designed top-down,
+    starting with a problem and then deriving a variety of solutions
+    from scratch.
+  - Topics include memoization, recurrence closed forms, string
+    matching (sorting, hash tables, radix tries, and suffix tries),
+    dynamic programming (e.g. Smith-Waterman and Needleman-Wunsch),
+    Bayesian statistics (e.g. the envelope paradox), graphical models
+    (HMMs, Viterbi, junction tree, belief propagation), FFT, and the
+    probabilistic convolution tree.
+  - [[https://www.youtube.com/user/fillwithlight/videos][Lecture videos on Youtube]] and for direct [[http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233][download]]
+
+- [[http://www.ini740.com/S17/index.html][14-740]] *Fundamentals of Computer Networks* /CMU/
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - This is an introductory course on Networking for graduate
+    students. It follows a top-down approach to teaching Computer
+    Networks, so it starts with the Application layer which most of
+    the students are familiar with and as the course unravels we learn
+    more about transport, network and link layers of the protocol
+    stack.
+  - As far as prerequisites are concerned - basic computer,
+    programming and probability theory background is required.
+  - The course site contains links to the lecture videos, reading
+    material and assignments.
+
+- [[https://inst.eecs.berkeley.edu/~cs168/fa15/][CS 168]] *Computer Networks* /UC
+  Berkeley/@@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />@@
+  @@html:<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />@@
+
+  - This is an undergraduate level course covering the fundamental
+    concepts of networking as embodied in the Internet. The course
+    will cover a wide range of topics; see the lecture schedule for
+    more details. While the class has a textbook, we will not follow
+    its order of presentation but will instead use the text as a
+    reference when covering each individual topic. The course will
+    also have several projects that involve programming (in Python).
+  - You should know programming, data structures, and software
+    engineering. In terms of mathematics, your algebra should be very
+    solid, you need to know basic probability, and you should be
+    comfortable with thinking abstractly. The TAs will spend very
+    little time reviewing material that is not specific to networking.
+    We assume that you either know the material covered in those
+    courses, or are willing to learn the material as necessary. We
+    won't cover any of this material in lecture.
